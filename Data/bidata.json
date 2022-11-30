@@ -1,318 +1,318 @@
 [
-    {
-      "id": "0000",
-      "iconName": "home",
-      "text": "Home",
-      "url": "https://app.powerbi.com/view?r=eyJrIjoiOWFjZDY0NWQtYTdiNy00MTQ4LTkwYjctM2Y5YzlhMDM1Yzc2IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-      "permissions": [
-  
-      ],
-      "items": [
-  
-      ]
-    },
-    {
-      "id": "1000",
-      "iconName": "groups",
-      "text": "BI Dashboard Branch ",
-      "url": "",
-      "permissions": [
-  
-      ],
-      "items": [
-        {
-          "id": "1100",
-          "iconName": "bookmarks",
-          "text": "Grade & Ranking",
-          "url": "",
-          "permissions": [
-  
-          ],
-          "items": [
-            {
-              "id": "1101",
-              "iconName": "insert_chart",
-              "text": "New App ผลงานในพื้นที่ PH&MP",
-              "url": "https://app.powerbi.com/view?r=eyJrIjoiMzM5NmE3OGYtMmEyOC00MzBiLTg4MTctN2M1ZGJmZjQzY2M5IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-              "permissions": [
-  
-              ],
-              "items": [
-  
-              ]
-            },
-            {
-              "id": "1102",
-              "iconName": "insert_chart",
-              "text": "NG PH&MP",
-              "url": "https://app.powerbi.com/view?r=eyJrIjoiOWMwMjk1ZWQtMDAzZS00ZWViLWI2ZjYtYTA5ZWFhYTFlOTQwIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-              "permissions": [
-  
-              ],
-              "items": [
-  
-              ]
-            },
-            {
-              "id": "1103",
-              "iconName": "insert_chart",
-              "text": "TG PH&MP",
-              "url": "https://app.powerbi.com/view?r=eyJrIjoiZmEyMWJiOTAtYzg3Yi00ZGRlLWI4ZjEtYjU3NDM2NmFhNjNkIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-              "permissions": [
-  
-              ],
-              "items": [
-  
-              ]
-            },
-            {
-              "id": "1104",
-              "iconName": "insert_chart",
-              "text": "PSG PH&MP",
-              "url": "https://app.powerbi.com/view?r=eyJrIjoiMTJmNzhhMjYtYTUzNC00NzAzLWI3YWUtNzIyNzRiYzEzZjg5IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D&pageName=ReportSection",
-              "permissions": [
-  
-              ],
-              "items": [
-  
-              ]
-            },
-            {
-              "id": "1105",
-              "iconName": "insert_chart",
-              "text": "POG  PH&MP",
-              "url": "https://app.powerbi.com/view?r=eyJrIjoiNGVhNDE0YWEtOGM0YS00Zjg2LWJlODctYmRhMmY1ZDk4OGEzIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-              "permissions": [
-  
-              ],
-              "items": [
-  
-              ]
-            },
-            {
-              "id": "1106",
-              "iconName": "insert_chart",
-              "text": "LG PH",
-              "url": "https://app.powerbi.com/view?r=eyJrIjoiYWMxODE4MDAtNTcwYy00MjA1LWIwMGMtZDk0ZjA0YTRmNGRlIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-              "permissions": [
-  
-              ],
-              "items": [
-  
-              ]
-            }
-          ]
-        },
-        {
-          "id": "1200",
-          "iconName": "bookmarks",
-          "text": "PA นักเรียนปี 66",
-          "url": "",
-          "permissions": [
-  
-          ],
-          "items": [
-  
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2000",
-      "iconName": "bookmarks",
-      "text": "ฝ่ายงานส่งเสริมธุรกิจสาขา",
-      "url": "",
-      "permissions": [
-        "powerbi_api:group1"
-      ],
-      "items": [
-        {
-          "id": "2100",
-          "iconName": "insert_chart",
-          "text": "Monitor Agent PH",
-          "url": "https://app.powerbi.com/reportEmbed?reportId=d7905b4c-e3dd-4af1-abdb-5e3dcd00d8e5&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
-          "permissions": [
-  
-          ],
-          "items": [
-  
-          ]
-        },
-        {
-          "id": "2200",
-          "iconName": "insert_chart",
-          "text": "Monitor Agent MP",
-          "url": "https://app.powerbi.com/reportEmbed?reportId=640b5cbd-be87-4b29-8141-5e5a85c389b6&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
-          "permissions": [
-  
-          ],
-          "items": [
-  
-          ]
-        },
-        {
-          "id": "2300",
-          "iconName": "insert_chart",
-          "text": "Monitor Branch PH",
-          "url": "https://app.powerbi.com/reportEmbed?reportId=4e78f565-e274-427f-bd34-4d3c2faab029&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
-          "permissions": [
-  
-          ],
-          "items": [
-  
-          ]
-        },
-        {
-          "id": "2400",
-          "iconName": "insert_chart",
-          "text": "Monitor Branch MP",
-          "url": "https://app.powerbi.com/reportEmbed?reportId=eda70d2f-5e19-4486-ba91-71549af8990f&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
-          "permissions": [
-  
-          ],
-          "items": [
-  
-          ]
-        },
-        {
-          "id": "2500",
-          "iconName": "insert_chart",
-          "text": "Monitor PSG PH",
-          "url": "https://app.powerbi.com/reportEmbed?reportId=4492f98b-ffbf-4478-89dc-874da930f5ea&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
-          "permissions": [
-  
-          ],
-          "items": [
-  
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3000",
-      "iconName": "bookmarks",
-      "text": "ฝ่ายงานบริการสินไหมและกองทุนสินไหม",
-      "url": "",
-      "permissions": [
-        "powerbi_api:group2"
-      ],
-      "items": [
-        {
-          "id": "3100",
-          "iconName": "insert_chart",
-          "text": "Fund-Claim On Excel File",
-          "url": "https://app.powerbi.com/reportEmbed?reportId=037c8eb9-4860-45d1-b93d-c6f05b748d11&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
-          "permissions": [
-  
-          ],
-          "items": [
-  
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4000",
-      "iconName": "bookmarks",
-      "text": "ลูกค้าสัมพันธ์",
-      "url": "",
-      "permissions": [
-        "powerbi_api:group3"
-      ],
-      "items": [
-        {
-          "id": "4100",
-          "iconName": "insert_chart",
-          "text": "Monitor Agent PH&MP",
-          "url": "https://app.powerbi.com/reportEmbed?reportId=37803083-442d-4713-9a54-705638c39211&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
-          "permissions": [
-  
-          ],
-          "items": [
-  
-          ]
-        },
-        {
-          "id": "4200",
-          "iconName": "insert_chart",
-          "text": "Monitor Branch PH&MP",
-          "url": "https://app.powerbi.com/reportEmbed?reportId=f533fc42-dbd3-4d64-b7de-721307ecc223&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
-          "permissions": [
-  
-          ],
-          "items": [
-  
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5000",
-      "iconName": "bookmarks",
-      "text": "ฝ่ายงานลิสซิ่งและการเงิน ",
-      "url": "",
-      "permissions": [
-        "powerbi_api:group4"
-      ],
-      "items": [
-        {
-          "id": "5100",
-          "iconName": "insert_chart",
-          "text": "Finanace Siamsmile",
-          "url": "https://app.powerbi.com/reportEmbed?reportId=eff20ce4-e37b-429b-87d7-3f5c5ef45bf8&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
-          "permissions": [
-  
-          ],
-          "items": [
-  
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6000",
-      "iconName": "bookmarks",
-      "text": "ฝ่ายงานบริหารความเสี่ยง",
-      "url": "",
-      "permissions": [
-        "powerbi_api:group5"
-      ],
-      "items": [
-        {
-          "id": "6100",
-          "iconName": "insert_chart",
-          "text": "New app and Lapse",
-          "url": "https://app.powerbi.com/reportEmbed?reportId=8c754d80-1bd4-463c-a82e-158a0161d090&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
-          "permissions": [
-  
-          ],
-          "items": [
-  
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7000",
-      "iconName": "bookmarks",
-      "text": "ฝ่ายงานรับประกัน 1",
-      "url": "",
-      "permissions": [
-        "powerbi_api:group5"
-      ],
-      "items": [
-        {
-          "id": "7100",
-          "iconName": "insert_chart",
-          "text": "Status New App PH",
-          "url": "https://app.powerbi.com/reportEmbed?reportId=2a8cba51-cb09-4794-be10-1faacd93b971&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
-          "permissions": [
-  
-          ],
-          "items": [
-  
-          ]
-        }
-      ]
-    }
-  ]
+  {
+    "id": "0000",
+    "iconName": "home",
+    "text": "Home",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiOWFjZDY0NWQtYTdiNy00MTQ4LTkwYjctM2Y5YzlhMDM1Yzc2IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+    "permissions": [
+
+    ],
+    "items": [
+
+    ]
+  },
+  {
+    "id": "1000",
+    "iconName": "groups",
+    "text": "BI Dashboard Branch",
+    "url": "",
+    "permissions": [
+
+    ],
+    "items": [
+      {
+        "id": "1100",
+        "iconName": "bookmarks",
+        "text": "Grade & Ranking",
+        "url": "",
+        "permissions": [
+
+        ],
+        "items": [
+          {
+            "id": "1101",
+            "iconName": "insert_chart",
+            "text": "New App ผลงานในพื้นที่ PH&MP ",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiMzM5NmE3OGYtMmEyOC00MzBiLTg4MTctN2M1ZGJmZjQzY2M5IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [
+
+            ],
+            "items": [
+
+            ]
+          },
+          {
+            "id": "1102",
+            "iconName": "insert_chart",
+            "text": "NG PH&MP",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiOWMwMjk1ZWQtMDAzZS00ZWViLWI2ZjYtYTA5ZWFhYTFlOTQwIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [
+
+            ],
+            "items": [
+
+            ]
+          },
+          {
+            "id": "1103",
+            "iconName": "insert_chart",
+            "text": "TG PH&MP",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiZmEyMWJiOTAtYzg3Yi00ZGRlLWI4ZjEtYjU3NDM2NmFhNjNkIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [
+
+            ],
+            "items": [
+
+            ]
+          },
+          {
+            "id": "1104",
+            "iconName": "insert_chart",
+            "text": "PSG PH&MP",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiMTJmNzhhMjYtYTUzNC00NzAzLWI3YWUtNzIyNzRiYzEzZjg5IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D&pageName=ReportSection",
+            "permissions": [
+
+            ],
+            "items": [
+
+            ]
+          },
+          {
+            "id": "1105",
+            "iconName": "insert_chart",
+            "text": "POG  PH&MP",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiNGVhNDE0YWEtOGM0YS00Zjg2LWJlODctYmRhMmY1ZDk4OGEzIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [
+
+            ],
+            "items": [
+
+            ]
+          },
+          {
+            "id": "1106",
+            "iconName": "insert_chart",
+            "text": "LG PH",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiYWMxODE4MDAtNTcwYy00MjA1LWIwMGMtZDk0ZjA0YTRmNGRlIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [
+
+            ],
+            "items": [
+
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1200",
+        "iconName": "bookmarks",
+        "text": "PA นักเรียนปี 66",
+        "url": "",
+        "permissions": [
+
+        ],
+        "items": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2000",
+    "iconName": "bookmarks",
+    "text": "ฝ่ายงานส่งเสริมธุรกิจสาขา",
+    "url": "",
+    "permissions": [
+      "powerbi_api:group1"
+    ],
+    "items": [
+      {
+        "id": "2100",
+        "iconName": "insert_chart",
+        "text": "Monitor Agent PH",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=d7905b4c-e3dd-4af1-abdb-5e3dcd00d8e5&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [
+
+        ],
+        "items": [
+
+        ]
+      },
+      {
+        "id": "2200",
+        "iconName": "insert_chart",
+        "text": "Monitor Agent MP",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=640b5cbd-be87-4b29-8141-5e5a85c389b6&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [
+
+        ],
+        "items": [
+
+        ]
+      },
+      {
+        "id": "2300",
+        "iconName": "insert_chart",
+        "text": "Monitor Branch PH",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=4e78f565-e274-427f-bd34-4d3c2faab029&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [
+
+        ],
+        "items": [
+
+        ]
+      },
+      {
+        "id": "2400",
+        "iconName": "insert_chart",
+        "text": "Monitor Branch MP",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=eda70d2f-5e19-4486-ba91-71549af8990f&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [
+
+        ],
+        "items": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3000",
+    "iconName": "bookmarks",
+    "text": "ฝ่ายงานบริการสินไหมและกองทุนสินไหม",
+    "url": "",
+    "permissions": [
+      "powerbi_api:group2"
+    ],
+    "items": [
+      {
+        "id": "3100",
+        "iconName": "insert_chart",
+        "text": "Fund-Claim On Excel File",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=037c8eb9-4860-45d1-b93d-c6f05b748d11&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [
+
+        ],
+        "items": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4000",
+    "iconName": "bookmarks",
+    "text": "ลูกค้าสัมพันธ์",
+    "url": "",
+    "permissions": [
+      "powerbi_api:group3"
+    ],
+    "items": [
+      {
+        "id": "4100",
+        "iconName": "insert_chart",
+        "text": "Monitor Agent PH&MP",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=37803083-442d-4713-9a54-705638c39211&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [
+
+        ],
+        "items": [
+
+        ]
+      },
+      {
+        "id": "4200",
+        "iconName": "insert_chart",
+        "text": "Monitor Branch PH&MP",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=f533fc42-dbd3-4d64-b7de-721307ecc223&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [
+
+        ],
+        "items": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5000",
+    "iconName": "bookmarks",
+    "text": "ฝ่ายงานลิสซิ่งและการเงิน ",
+    "url": "",
+    "permissions": [
+      "powerbi_api:group4"
+    ],
+    "items": [
+      {
+        "id": "5100",
+        "iconName": "insert_chart",
+        "text": "Finanace Siamsmile",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=eff20ce4-e37b-429b-87d7-3f5c5ef45bf8&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [
+
+        ],
+        "items": [
+
+        ]
+      },
+      {
+        "id": "5200",
+        "iconName": "insert_chart",
+        "text": "Fund-Claim On Excel File",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=60fef00a-3a4a-4035-86b1-31097bda4fd8&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [
+
+        ],
+        "items": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6000",
+    "iconName": "bookmarks",
+    "text": "ฝ่ายงานบริหารความเสี่ยง",
+    "url": "",
+    "permissions": [
+      "powerbi_api:group5"
+    ],
+    "items": [
+      {
+        "id": "6100",
+        "iconName": "insert_chart",
+        "text": "New app and Lapse",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=8c754d80-1bd4-463c-a82e-158a0161d090&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [
+
+        ],
+        "items": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7000",
+    "iconName": "bookmarks",
+    "text": "ฝ่ายงานรับประกัน 1",
+    "url": "",
+    "permissions": [
+      "powerbi_api:group6"
+    ],
+    "items": [
+      {
+        "id": "7100",
+        "iconName": "insert_chart",
+        "text": "Status New App PH",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=2a8cba51-cb09-4794-be10-1faacd93b971&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [
+
+        ],
+        "items": [
+
+        ]
+      }
+    ]
+  }
+]
