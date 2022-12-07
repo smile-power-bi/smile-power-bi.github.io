@@ -14,7 +14,7 @@
   {
     "id": "1000",
     "iconName": "groups",
-    "text": "BI Dashboard Branch",
+    "text": "BI Dashboard Branch ",
     "url": "",
     "permissions": [
 
@@ -237,7 +237,7 @@
   {
     "id": "5000",
     "iconName": "bookmarks",
-    "text": "ฝ่ายงานลิสซิ่งและการเงิน ",
+    "text": "ฝ่ายงานลิสซิ่งและการเงิน",
     "url": "",
     "permissions": [
       "powerbi_api:group4"
