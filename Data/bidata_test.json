@@ -14,7 +14,7 @@
   {
     "id": "1000",
     "iconName": "groups",
-    "text": "BI Dashboard Branch",
+    "text": "BI Dashboard Branch ",
     "url": "",
     "permissions": [
 
@@ -94,6 +94,18 @@
             "iconName": "insert_chart",
             "text": "LG PH",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiYWMxODE4MDAtNTcwYy00MjA1LWIwMGMtZDk0ZjA0YTRmNGRlIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [
+
+            ],
+            "items": [
+
+            ]
+          },
+          {
+            "id": "1107",
+            "iconName": "insert_chart",
+            "text": "LG MP",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiZTg3OTdkOWItMmY0NS00MjYyLWFiZTYtOTk5OTFlODlhYzdlIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D&pageName=ReportSection",
             "permissions": [
 
             ],
@@ -237,7 +249,7 @@
   {
     "id": "5000",
     "iconName": "bookmarks",
-    "text": "ฝ่ายงานลิสซิ่งและการเงิน ",
+    "text": "ฝ่ายงานลิสซิ่งและการเงิน",
     "url": "",
     "permissions": [
       "powerbi_api:group4"
