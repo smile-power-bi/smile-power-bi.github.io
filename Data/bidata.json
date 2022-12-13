@@ -92,7 +92,7 @@
           {
             "id": "1106",
             "iconName": "insert_chart",
-            "text": "LG_PH",
+            "text": "LG PH",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiYWMxODE4MDAtNTcwYy00MjA1LWIwMGMtZDk0ZjA0YTRmNGRlIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
             "permissions": [
 
@@ -104,7 +104,7 @@
           {
             "id": "1107",
             "iconName": "insert_chart",
-            "text": "LG_MP",
+            "text": "LG MP",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiYWQyNjNkY2YtNzMwNS00M2ZkLTkzNTItNzNjYjg5YTRmNWQ3IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
             "permissions": [
 
@@ -113,6 +113,18 @@
 
             ]
           }
+        ]
+      },
+      {
+        "id": "1200",
+        "iconName": "bookmarks",
+        "text": "PA นักเรียนปี 66",
+        "url": "",
+        "permissions": [
+
+        ],
+        "items": [
+
         ]
       }
     ]
