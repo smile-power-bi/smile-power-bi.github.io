@@ -112,6 +112,18 @@
             "items": [
 
             ]
+          },
+          {
+            "id": "1108",
+            "iconName": "insert_chart",
+            "text": "BG PH&MP",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiZDM5N2JlNjAtYzMxYS00MTA1LWIxYTItOGFjZjI3NDQyNGEwIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D&pageName=ReportSection",
+            "permissions": [
+
+            ],
+            "items": [
+
+            ]
           }
         ]
       },
@@ -124,7 +136,18 @@
 
         ],
         "items": [
+          {
+            "id": "1201",
+            "iconName": "insert_chart",
+            "text": "ผลงานแจ้งตกลง PA 66",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiYTM0Yzk5ZTMtOGNjOS00M2FkLWJkYzMtMmY5Y2I1Y2E5ZDEzIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [
 
+            ],
+            "items": [
+
+            ]
+          }
         ]
       }
     ]
