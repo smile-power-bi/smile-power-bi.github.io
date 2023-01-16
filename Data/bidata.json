@@ -149,6 +149,29 @@
             ]
           }
         ]
+      },
+      {
+        "id": "1300",
+        "iconName": "bookmarks",
+        "text": "ฝ่ายงานสินไหม",
+        "url": "",
+        "permissions": [
+
+        ],
+        "items": [
+          {
+            "id": "1301",
+            "iconName": "insert_chart",
+            "text": "ติดตามเคลมออนไลน์",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiZDM4NGRlYzUtOTcyNi00N2I2LWEyMzMtZGIxMzcwNzQ1ZTU2IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [
+
+            ],
+            "items": [
+
+            ]
+          }
+        ]
       }
     ]
   },
