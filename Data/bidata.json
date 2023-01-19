@@ -172,6 +172,41 @@
             ]
           }
         ]
+      },
+      {
+        "id": "1400",
+        "iconName": "bookmarks",
+        "text": "ฝ่ายงานประกันสุขภาพ",
+        "url": "",
+        "permissions": [
+
+        ],
+        "items": [
+          {
+            "id": "1401",
+            "iconName": "insert_chart",
+            "text": "ติดตามสถานะ New App",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiMmY2MTZhMGMtYzI4ZC00NGM4LTk2ZTgtMzAzYTg1ZDBkODViIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D&pageName=ReportSection",
+            "permissions": [
+
+            ],
+            "items": [
+
+            ]
+          },
+          {
+            "id": "1402",
+            "iconName": "insert_chart",
+            "text": "ติดตามผลการพิจารณา ผอ.บล.และประธานสาขา ",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiNmVjMDBiNWEtNzQwYy00MThiLWI0MTAtNmUxM2FiYzEyODY1IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [
+
+            ],
+            "items": [
+
+            ]
+          }
+        ]
       }
     ]
   },
