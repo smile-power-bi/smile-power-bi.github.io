@@ -147,6 +147,18 @@
             "items": [
 
             ]
+          },
+          {
+            "id": "1202",
+            "iconName": "insert_chart",
+            "text": "ติดตามงานค้างคีย์ในระบบ PA 66",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiMmJmZjM1YTAtODc4MC00MTE2LTgwYWEtMDZmNWM1OWMwMDg1IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D&pageName=ReportSection79a0f6149863666c047d",
+            "permissions": [
+
+            ],
+            "items": [
+
+            ]
           }
         ]
       },
@@ -197,7 +209,7 @@
           {
             "id": "1402",
             "iconName": "insert_chart",
-            "text": "ติดตามผลการพิจารณา ผอ.บล.และประธานสาขา ",
+            "text": "ติดตามผลการพิจารณา ผอ.บล.และประธานสาขา",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiNmVjMDBiNWEtNzQwYy00MThiLWI0MTAtNmUxM2FiYzEyODY1IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
             "permissions": [
 
