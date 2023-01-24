@@ -159,6 +159,18 @@
             "items": [
 
             ]
+          },
+          {
+            "id": "1203",
+            "iconName": "insert_chart",
+            "text": "ผลงานการจัดเก็บเบี้ยตามเป้า PA 66",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiYTRmODNhZDQtYThhYy00YjM1LTgxNGEtNjAyZWI4YWRiY2M4IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [
+
+            ],
+            "items": [
+
+            ]
           }
         ]
       },
