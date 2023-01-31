@@ -231,6 +231,29 @@
             ]
           }
         ]
+      },
+      {
+        "id": "1500",
+        "iconName": "bookmarks",
+        "text": "ฝ่ายงานรับเบี้ยประกัน",
+        "url": "",
+        "permissions": [
+
+        ],
+        "items": [
+          {
+            "id": "1501",
+            "iconName": "insert_chart",
+            "text": "ติดตามเปรียบเทียบ Grade PSG PH&MP",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiZjdiZTk1YzktOWJiNC00MzJhLWJiMzctMzQyNzZlMDA3MDVkIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [
+
+            ],
+            "items": [
+
+            ]
+          }
+        ]
       }
     ]
   },
