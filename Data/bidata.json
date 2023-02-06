@@ -139,6 +139,18 @@
           {
             "id": "1201",
             "iconName": "insert_chart",
+            "text": "ติดตามโรงเรียนค้างต่อสัญญาและไม่ต่อสัญญา PA 66",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiNjkzZWZiZmItNWQ2Yi00YTFkLWJkMjAtYzEzM2U4NGNjZmY3IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [
+
+            ],
+            "items": [
+
+            ]
+          },
+          {
+            "id": "1202",
+            "iconName": "insert_chart",
             "text": "ผลงานแจ้งตกลง PA 66",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiODQ4YjJkNWItYWJiYi00OGE1LTliZDYtY2ZhYzdiYjJmYWQ0IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
             "permissions": [
@@ -149,7 +161,7 @@
             ]
           },
           {
-            "id": "1202",
+            "id": "1203",
             "iconName": "insert_chart",
             "text": "ติดตามงานค้างคีย์ในระบบ PA 66",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiMmJmZjM1YTAtODc4MC00MTE2LTgwYWEtMDZmNWM1OWMwMDg1IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D&pageName=ReportSection79a0f6149863666c047d",
@@ -161,7 +173,7 @@
             ]
           },
           {
-            "id": "1203",
+            "id": "1204",
             "iconName": "insert_chart",
             "text": "ผลงานการจัดเก็บเบี้ยตามเป้า PA 66",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiYTRmODNhZDQtYThhYy00YjM1LTgxNGEtNjAyZWI4YWRiY2M4IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
