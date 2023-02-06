@@ -514,5 +514,28 @@
         ]
       }
     ]
+  },
+  {
+    "id": "8000",
+    "iconName": "bookmarks",
+    "text": "ฝ่ายงานรับเบี้ยประกัน",
+    "url": "",
+    "permissions": [
+      "powerbi_api:group7"
+    ],
+    "items": [
+      {
+        "id": "8100",
+        "iconName": "insert_chart",
+        "text": "PSG PH&MP",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=da559c57-e0db-485a-9d43-542392416318&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [
+
+        ],
+        "items": [
+
+        ]
+      }
+    ]
   }
 ]
