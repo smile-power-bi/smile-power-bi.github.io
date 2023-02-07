@@ -1,16 +1,72 @@
 [
-   {
-      "numberOrder":"1",
-      "system":"test",
-      "userGroups":"ประธานสาขา / ผอ.บล.",
-      "remark":"รหัสพนักงาน + รหัสผ่านที่เตรียมไว้",
-      "url":"https://www.google.co.th"
-   },
-   {
-      "numberOrder":"2",
-      "system":"test2",
-      "userGroups":"ประธานสาขา / ผอ.บล.",
-      "remark":"รหัสพนักงาน + รหัสผ่านที่เตรียมไว้",
-      "url":"https://www.siamsmile.co.th"
-   }
+  {
+    "numberOrder": "1",
+    "system": "ระบบเช็คอิน",
+    "userGroups": "ประธานสาขา",
+    "remark": "เข้ารหัสใช้งานจริง (รหัสพนักงาน + รหัสผ่านที่ตั้ง)",
+    "url": "https://fieldsales.around.co.th"
+  },
+  {
+    "numberOrder": "2",
+    "system": "ระบบ Premium เปิดใบแจ้งชำระ New App",
+    "userGroups": "ประธานสาขา / ผอ.บล.",
+    "remark": "รหัสพนักงาน + รหัสผ่านที่เตรียมไว้",
+    "url": "https://trnprmorder.siamsmile.co.th/premiumnoticepages"
+  },
+  {
+    "numberOrder": "3",
+    "system": "ระบบประกันสุขภาพ ค้นหาข้อมูล",
+    "userGroups": "ประธานสาขา / ผอ.บล.",
+    "remark": "รหัสพนักงาน + รหัสผ่านที่เตรียมไว้",
+    "url": "https://trnsss.siamsmile.co.th/Modules/PH/frmSelect.aspx"
+  },
+  {
+    "numberOrder": "4",
+    "system": "ระบบประกันสุขภาพ สลักหลังขอเปลี่ยนแผน",
+    "userGroups": "ประธานสาขา / ผอ.บล.",
+    "remark": "รหัสพนักงาน + รหัสผ่านที่เตรียมไว้",
+    "url": "https://trnsss.siamsmile.co.th/Modules/PH/frmPHEndorsementQueryNew.aspx"
+  },
+  {
+    "numberOrder": "5",
+    "system": "ระบบประกันอุบัติเหตุนักเรียน",
+    "userGroups": "ประธานสาขา / ผอ.บล.",
+    "remark": "รหัสพนักงาน + รหัสผ่านที่เตรียมไว้",
+    "url": "https://trnssspa.siamsmile.co.th/Modules/PA/frmPANewAppAgentQuery.aspx"
+  },
+  {
+    "numberOrder": "6",
+    "system": "ระบบสินไหมออนไลน์",
+    "userGroups": "ประธานสาขา / ผอ.บล.",
+    "remark": "รหัสพนักงาน + รหัสผ่านที่เตรียมไว้",
+    "url": "https://trncol.siamsmile.co.th"
+  },
+  {
+    "numberOrder": "7",
+    "system": "ระบบ Premium",
+    "userGroups": "ประธานสาขา / ผอ.บล.",
+    "remark": "รหัสพนักงาน + รหัสผ่านที่เตรียมไว้",
+    "url": "https://trnprmorder.siamsmile.co.th"
+  },
+  {
+    "numberOrder": "8",
+    "system": "ระบบประกันรถยนต์",
+    "userGroups": "ประธานสาขา / ผอ.บล.",
+    "remark": "รหัสพนักงาน + รหัสผ่านที่เตรียมไว้",
+    "url": "https://b2b.uat.siamsmile.co.th/"
+  },
+  {
+    "numberOrder": "9",
+    "system": "ระบบ Dashboard",
+    "userGroups": "ประธานสาขา / ผอ.บล.",
+    "remark": "",
+    "url": "https://trnbi.siamsmile.co.th/home"
+  },
+  {
+    "numberOrder": "10",
+    "system": "ระบบเคลม ประกันสุขภาพ",
+    "userGroups": "ประธานสาขา / ผอ.บล.",
+    "remark": "รหัสพนักงาน + รหัสผ่านที่เตรียมไว้",
+    "url": "https://trnsss.siamsmile.co.th/Modules/Claim/frmClaimCutomerQuery.aspx"
+  }
 ]
