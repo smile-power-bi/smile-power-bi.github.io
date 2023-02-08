@@ -70,10 +70,17 @@
     "url": "https://trnssspa.siamsmile.co.th/Modules/PA/Reports/frmPorReport.aspx"
   },
   {
-    "numberOrder": "10-11",
-    "system": "ระบบประกันรถยนต์",
+    "numberOrder": "10",
+    "system": "ระบบประกันรถยนต์ (คีย์ New App)",
     "userGroups": "ประธานสาขา / ผอ.บล.",
     "remark": "รหัสพนักงาน + รหัสผ่านที่เตรียมไว้",
+    "url": "https://b2b.uat.siamsmile.co.th/"
+  },
+    {
+    "numberOrder": "11",
+    "system": "ระบบประกันรถยนต์ (ค้นหาข้อมูล)",
+    "userGroups": "ประธานสาขา / ผอ.บล.",
+    "remark": "Username : B11111  Password : Smile111",
     "url": "https://b2b.uat.siamsmile.co.th/"
   },
   {
