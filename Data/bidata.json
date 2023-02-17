@@ -535,6 +535,18 @@
         "items": [
 
         ]
+      },
+      {
+        "id": "8200",
+        "iconName": "insert_chart",
+        "text": "POG PH&MP For Premium",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=fc991e56-edb7-4c55-a694-203dd8414817&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [
+
+        ],
+        "items": [
+
+        ]
       }
     ]
   }
