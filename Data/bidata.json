@@ -431,6 +431,14 @@
         "url": "https://app.powerbi.com/reportEmbed?reportId=e10d0eae-92dd-4827-b9da-2f5a7c4c64a9&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
+      },
+      {
+        "id": "8600",
+        "iconName": "insert_chart",
+        "text": "Trend POG PH&MP",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=e3c7a911-af45-40cd-9200-231f2ecaf2bc&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [],
+        "items": []
       }
     ]
   }
