@@ -184,6 +184,30 @@
             "url": "https://app.powerbi.com/view?r=eyJrIjoiZjdiZTk1YzktOWJiNC00MzJhLWJiMzctMzQyNzZlMDA3MDVkIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
             "permissions": [],
             "items": []
+          },
+          {
+            "id": "1502",
+            "iconName": "insert_chart",
+            "text": "PSG PH&MP Yearly",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiZTgxZDA3ZTYtYzE4YS00ODk4LWI1MjUtZGI5MDlkMzUwYjJkIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          },
+          {
+            "id": "1503",
+            "iconName": "insert_chart",
+            "text": "Trend PSG PH&MP",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiYjdkYTNjNjktMTM0Zi00OGY4LTk4OTItZWViMjE5YWRkNTk3IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          },
+          {
+            "id": "1504",
+            "iconName": "insert_chart",
+            "text": "Trend POG PH&MP",
+            "url": "https://app.powerbi.com/reportEmbed?reportId=e3c7a911-af45-40cd-9200-231f2ecaf2bc&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+            "permissions": [],
+            "items": []
           }
         ]
       }
@@ -413,30 +437,6 @@
         "iconName": "insert_chart",
         "text": "PSG PH&MP For Download",
         "url": "https://app.powerbi.com/reportEmbed?reportId=04064f33-5948-467e-9c7c-aa4505b6ee3d&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
-        "permissions": [],
-        "items": []
-      },
-      {
-        "id": "8400",
-        "iconName": "insert_chart",
-        "text": "PSG PH&MP Yearly",
-        "url": "https://app.powerbi.com/reportEmbed?reportId=418a6be7-cab8-4151-9cef-5f0ae185833b&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
-        "permissions": [],
-        "items": []
-      },
-      {
-        "id": "8500",
-        "iconName": "insert_chart",
-        "text": "Trend PSG PH&MP",
-        "url": "https://app.powerbi.com/reportEmbed?reportId=e10d0eae-92dd-4827-b9da-2f5a7c4c64a9&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
-        "permissions": [],
-        "items": []
-      },
-      {
-        "id": "8600",
-        "iconName": "insert_chart",
-        "text": "Trend POG PH&MP",
-        "url": "https://app.powerbi.com/reportEmbed?reportId=e3c7a911-af45-40cd-9200-231f2ecaf2bc&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
       }
