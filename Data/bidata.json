@@ -248,6 +248,14 @@
         "url": "https://app.powerbi.com/reportEmbed?reportId=037c8eb9-4860-45d1-b93d-c6f05b748d11&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
+      },
+      {
+        "id": "3200",
+        "iconName": "insert_chart",
+        "text": "Fax Claim",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=f2978eb1-17f4-49c5-84a0-338d52bca495&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [],
+        "items": []
       }
     ]
   },
