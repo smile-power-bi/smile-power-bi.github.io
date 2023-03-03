@@ -415,6 +415,22 @@
         "url": "https://app.powerbi.com/reportEmbed?reportId=04064f33-5948-467e-9c7c-aa4505b6ee3d&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
+      },
+      {
+        "id": "8400",
+        "iconName": "insert_chart",
+        "text": "PSG PH&MP Yearly",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=418a6be7-cab8-4151-9cef-5f0ae185833b&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [],
+        "items": []
+      },
+      {
+        "id": "8500",
+        "iconName": "insert_chart",
+        "text": "Trend PSG PH&MP",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=e10d0eae-92dd-4827-b9da-2f5a7c4c64a9&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [],
+        "items": []
       }
     ]
   }
