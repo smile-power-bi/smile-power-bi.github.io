@@ -103,12 +103,5 @@
     "userGroups": "ประธานสาขา / ผอ.บล.",
     "remark": "ไม่ต้องใส่ Username และ Password",
     "url": "https://trnbi.siamsmile.co.th/home"
-  },
-  {
-    "numberOrder": "16",
-    "system": "ระบบเช็คอิน",
-    "userGroups": "ประธานสาขา",
-    "remark": "Username และ Password ที่ใช้งานจริง",
-    "url": "https://fieldsales.around.co.th"
   }
 ]
