@@ -366,6 +366,14 @@
         "url": "https://app.powerbi.com/reportEmbed?reportId=654fa4f6-819e-425d-966b-fb8580dfbd10&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
+      },
+      {
+        "id": "5500",
+        "iconName": "insert_chart",
+        "text": "Fee Siamsmile",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=6354e168-3314-4500-aad1-1ddc5542b2c4&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [],
+        "items": []
       }
     ]
   },
@@ -453,6 +461,14 @@
         "iconName": "insert_chart",
         "text": "PSG PH&MP For Download",
         "url": "https://app.powerbi.com/reportEmbed?reportId=04064f33-5948-467e-9c7c-aa4505b6ee3d&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [],
+        "items": []
+      },
+      {
+        "id": "8400",
+        "iconName": "insert_chart",
+        "text": "Fee Siamsmile",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=327278dc-31e1-4422-8b98-afdd51a0f992&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
       }
