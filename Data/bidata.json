@@ -224,6 +224,14 @@
             "url": "https://app.powerbi.com/view?r=eyJrIjoiZmFhZDQzOGEtZTY2MC00MzUzLThjYTAtZjUwZWQ1ZGI3MjNlIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
             "permissions": [],
             "items": []
+          },
+          {
+            "id": "1505",
+            "iconName": "insert_chart",
+            "text": "Fee For Agent",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiZjVhNzYxNTQtZjczOC00ZmJmLWE1YzktNWU5MWY3YTA5YzY4IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
           }
         ]
       }
