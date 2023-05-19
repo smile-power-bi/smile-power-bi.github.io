@@ -10,7 +10,7 @@
   {
     "id": "9000",
     "iconName": "groups",
-    "text": "Part -Time",
+    "text": "Part - Time",
     "url": "",
     "permissions": [],
     "items": [
@@ -27,7 +27,7 @@
   {
     "id": "1000",
     "iconName": "groups",
-    "text": "BI Dashboard Branch ",
+    "text": "BI Dashboard Branch",
     "url": "",
     "permissions": {
       "0": "powerbi_api:group0"
