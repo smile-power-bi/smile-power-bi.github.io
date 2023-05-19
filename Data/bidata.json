@@ -12,8 +12,7 @@
     "iconName": "groups",
     "text": "BI Dashboard Branch ",
     "url": "",
-    "permissions": [
-     ],
+    "permissions": [],
     "items": [
       {
         "id": "1100",
