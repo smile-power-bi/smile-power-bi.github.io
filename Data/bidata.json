@@ -13,8 +13,7 @@
     "text": "BI Dashboard Branch ",
     "url": "",
     "permissions": [
-      "powerbi_api:group0"
-    ],
+     ],
     "items": [
       {
         "id": "1100",
