@@ -12,9 +12,7 @@
     "iconName": "groups",
     "text": "BI Dashboard Branch ",
     "url": "",
-    "permissions": {
-      "0": "powerbi_api:group0"
-    },
+    "permissions": [],
     "items": [
       {
         "id": "1100",
@@ -487,23 +485,6 @@
         "iconName": "insert_chart",
         "text": "Fee Siamsmile for Premium",
         "url": "https://app.powerbi.com/reportEmbed?reportId=2cea8fbe-1a31-4c16-9415-cb07f8e4b657&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
-        "permissions": [],
-        "items": []
-      }
-    ]
-  },
-  {
-    "id": "10000",
-    "iconName": "bookmarks",
-    "text": "บริษัทสยามสไมล์ แรลลี่",
-    "url": "",
-    "permissions": [],
-    "items": [
-      {
-        "id": "10100",
-        "iconName": "insert_chart",
-        "text": "ผลงาน New App ในพื้นที่ PH&MP",
-        "url": "https://app.powerbi.com/view?r=eyJrIjoiNWE1MGY1YzUtOWNkYy00ZGQyLWE3M2QtODYzOGI5MTcxMjIyIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
         "permissions": [],
         "items": []
       }
