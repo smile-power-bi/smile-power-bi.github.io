@@ -12,7 +12,9 @@
     "iconName": "groups",
     "text": "BI Dashboard Branch ",
     "url": "",
-    "permissions": [],
+    "permissions": [
+      "powerbi_api:group0"
+    ],
     "items": [
       {
         "id": "1100",
