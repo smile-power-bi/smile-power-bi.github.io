@@ -525,6 +525,14 @@
         "url": "https://app.powerbi.com/view?r=eyJrIjoiNWE1MGY1YzUtOWNkYy00ZGQyLWE3M2QtODYzOGI5MTcxMjIyIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
         "permissions": [],
         "items": []
+      },
+      {
+        "id": "10200",
+        "iconName": "insert_chart",
+        "text": "Grade BG PSG LG",
+        "url": "https://app.powerbi.com/view?r=eyJrIjoiNDY3NDVlODktNzRiNy00MWU4LWI4ZjItYWIzMDM0ZjFiN2MzIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+        "permissions": [],
+        "items": []
       }
     ]
   }
