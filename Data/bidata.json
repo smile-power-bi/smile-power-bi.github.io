@@ -347,7 +347,7 @@
   {
     "id": "5000",
     "iconName": "bookmarks",
-    "text": "ฝ่ายงานลิสซิ่งและการเงิน",
+    "text": "ฝ่ายงานวิจัยและพัฒนา(R&D)",
     "url": "",
     "permissions": [
       "powerbi_api:group4"
@@ -390,6 +390,14 @@
         "iconName": "insert_chart",
         "text": "Fee Siamsmile for R&D",
         "url": "https://app.powerbi.com/reportEmbed?reportId=14285dbf-c87f-4c5c-ab7f-67e1b37d8dc4&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [],
+        "items": []
+      },
+      {
+        "id": "5600",
+        "iconName": "insert_chart",
+        "text": "Loss Claim",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=b9fb0092-93f6-4293-a4f8-c23d8ff11ff8&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
       }
