@@ -1,107 +1,51 @@
 [
   {
-    "numberOrder": "1-3",
-    "system": "ระบบ Premium",
-    "userGroups": "ประธานสาขา / ผอ.บล.",
-    "remark": "Username และ Password ที่เตรียมไว้",
-    "url": "https://trnprmorder.siamsmile.co.th"
+    "numberOrder": "",
+    "system": "รายละเอียด login",
+    "userGroups": "FO",
+    "remark": "รายละเอียดสำหรับการ login เข้าสอบ",
+    "url": "https://docs.google.com/spreadsheets/d/1pFP7efFgjwtDIlTjEQkUuilkKwrcsGahNYDa4waR1Xs/edit?usp=sharing"
   },
   {
-    "numberOrder": "4",
-    "system": "ระบบ Premium เปิดใบแจ้งชำระ New App",
-    "userGroups": "ประธานสาขา / ผอ.บล.",
+    "numberOrder": "SSS",
+    "system": "ระบบประกันสุขภาพ",
+    "userGroups": "FO",
     "remark": "Username และ Password ที่เตรียมไว้",
-    "url": "https://trnprmorder.siamsmile.co.th/premiumnoticepages"
+    "url": "https://trnsss.siamsmile.co.th"
   },
   {
-    "numberOrder": "5",
-    "system": "ระบบประกันสุขภาพ ค้นหาข้อมูล",
-    "userGroups": "ประธานสาขา / ผอ.บล.",
-    "remark": "Username และ Password ที่เตรียมไว้",
-    "url": "https://trnsss.siamsmile.co.th/Modules/PH/frmSelect.aspx"
-  },
-  {
-    "numberOrder": "6",
-    "system": "ระบบประกันสุขภาพ สลักหลังขอเปลี่ยนแผน",
-    "userGroups": "ประธานสาขา / ผอ.บล.",
-    "remark": "Username และ Password ที่เตรียมไว้",
-    "url": "https://trnsss.siamsmile.co.th/Modules/PH/frmPHEndorsementQueryNew.aspx"
-  },
-  {
-    "numberOrder": "7",
+    "numberOrder": "PA",
     "system": "ระบบประกันอุบัติเหตุนักเรียน",
     "userGroups": "ประธานสาขา / ผอ.บล.",
     "remark": "Username และ Password ที่เตรียมไว้",
-    "url": "https://trnssspa.siamsmile.co.th/Modules/PA/frmPANewAppAgentQuery.aspx"
+    "url": "https://trnssspa.siamsmile.co.th/"
   },
   {
-    "numberOrder": "8.1",
-    "system": "ระบบประกันอุบัติเหตุนักเรียน (รายงานผู้เอาประกัน)",
-    "userGroups": "ประธานสาขา / ผอ.บล.",
-    "remark": "Username และ Password ที่เตรียมไว้",
-    "url": "https://trnssspa.siamsmile.co.th/Modules/PA/Reports/frmReportPACustomerDetail.aspx"
-  },
-  {
-    "numberOrder": "8.2",
-    "system": "ระบบประกันอุบัติเหตุนักเรียน (รายงานการจัดเก็บเบี้ย)",
-    "userGroups": "ประธานสาขา / ผอ.บล.",
-    "remark": "Username และ Password ที่เตรียมไว้",
-    "url": "https://trnssspa.siamsmile.co.th/Modules/PA/Reports/frmPASavePawnsReport.aspx"
-  },
-  {
-    "numberOrder": "8.3",
-    "system": "ระบบประกันอุบัติเหตุนักเรียน (รายงานการนำเข้ารายชื่อ)",
-    "userGroups": "ประธานสาขา / ผอ.บล.",
-    "remark": "Username และ Password ที่เตรียมไว้",
-    "url": "https://trnssspa.siamsmile.co.th/Modules/PA/Reports/frmPAListImportReport.aspx"
-  },
-  {
-    "numberOrder": "8.4",
-    "system": "ระบบประกันอุบัติเหตุนักเรียน (รายงาน Loss Claim)",
-    "userGroups": "ประธานสาขา / ผอ.บล.",
-    "remark": "Username และ Password ที่เตรียมไว้",
-    "url": "https://trnssspa.siamsmile.co.th/Modules/PA/Reports/frmReportLossClaimV1.aspx"
-  },
-  {
-    "numberOrder": "8.5",
-    "system": "ระบบประกันอุบัติเหตุนักเรียน (รายงานข้อมูลประเภท ป.)",
-    "userGroups": "ประธานสาขา / ผอ.บล.",
-    "remark": "Username และ Password ที่เตรียมไว้",
-    "url": "https://trnssspa.siamsmile.co.th/Modules/PA/Reports/frmPorReport.aspx"
-  },
-  {
-    "numberOrder": "10",
-    "system": "ระบบประกันรถยนต์ (คีย์ New App)",
-    "userGroups": "ประธานสาขา / ผอ.บล.",
+    "numberOrder": "Motor",
+    "system": "ระบบประกันรถยนต์",
+    "userGroups": "FO",
     "remark": "Username และ Password ที่เตรียมไว้",
     "url": "https://b2b.uat.siamsmile.co.th/"
   },
-    {
-    "numberOrder": "11",
-    "system": "ระบบประกันรถยนต์ (ค้นหาข้อมูล)",
-    "userGroups": "ประธานสาขา / ผอ.บล.",
-    "remark": "Username : B11111 / Password : Smile111",
-    "url": "https://b2b.uat.siamsmile.co.th/"
-  },
   {
-    "numberOrder": "12",
+    "numberOrder": "Claim PH",
     "system": "ระบบเคลม ประกันสุขภาพ",
     "userGroups": "ประธานสาขา / ผอ.บล.",
     "remark": "Username และ Password ที่เตรียมไว้",
-    "url": "https://trnsss.siamsmile.co.th/Modules/Claim/frmClaimCutomerQuery.aspx"
+    "url": "https://trnsss.siamsmile.co.th"
   },
   {
-    "numberOrder": "13-14",
+    "numberOrder": "Claim Online",
     "system": "ระบบสินไหมออนไลน์",
-    "userGroups": "ประธานสาขา / ผอ.บล.",
+    "userGroups": "FO",
     "remark": "Username และ Password ที่เตรียมไว้",
     "url": "https://trncol.siamsmile.co.th"
   },
   {
-    "numberOrder": "15",
-    "system": "ระบบ Dashboard",
-    "userGroups": "ประธานสาขา / ผอ.บล.",
-    "remark": "ไม่ต้องใส่ Username และ Password",
-    "url": "https://trnbi.siamsmile.co.th/home"
+    "numberOrder": "เงินสดย่อย",
+    "system": "ระบบ เงินสดย่อย",
+    "userGroups": "FO",
+    "remark": "Username และ Password ที่เตรียมไว้",
+    "url": "httpห://trnpettycash.siamsmile.co.th"
   }
 ]
