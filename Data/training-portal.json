@@ -16,7 +16,7 @@
   {
     "numberOrder": "PA",
     "system": "ระบบประกันอุบัติเหตุนักเรียน",
-    "userGroups": "ประธานสาขา / ผอ.บล.",
+    "userGroups": "FO",
     "remark": "Username และ Password ที่เตรียมไว้",
     "url": "https://trnssspa.siamsmile.co.th/"
   },
@@ -30,7 +30,7 @@
   {
     "numberOrder": "Claim PH",
     "system": "ระบบเคลม ประกันสุขภาพ",
-    "userGroups": "ประธานสาขา / ผอ.บล.",
+    "userGroups": "FO",
     "remark": "Username และ Password ที่เตรียมไว้",
     "url": "https://trnsss.siamsmile.co.th"
   },
