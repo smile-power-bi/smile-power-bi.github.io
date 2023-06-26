@@ -21,6 +21,13 @@
     "url": "https://trnssspa.siamsmile.co.th/"
   },
   {
+    "numberOrder": "PA",
+    "system": "รายชื่อสำหรับนำเข้า PA นักเรียน",
+    "userGroups": "FO",
+    "remark": "Username และ Password ที่เตรียมไว้",
+    "url": "https://docs.google.com/spreadsheets/d/1aqCcI2sJp41KxMh8bh6JOKtvA8Kag09T/edit?usp=sharing&ouid=101112800460365985196&rtpof=true&sd=truehttps://docs.google.com/spreadsheets/d/1aqCcI2sJp41KxMh8bh6JOKtvA8Kag09T/edit?usp=sharing&ouid=101112800460365985196&rtpof=true&sd=true"
+  },
+  {
     "numberOrder": "Motor",
     "system": "ระบบประกันรถยนต์",
     "userGroups": "FO",
