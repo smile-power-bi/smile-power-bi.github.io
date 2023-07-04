@@ -244,6 +244,39 @@
             "items": []
           }
         ]
+      },
+      {
+        "id": "1600",
+        "iconName": "bookmarks",
+        "text": "งานคัดกรองและมอบบัตร",
+        "url": "",
+        "permissions": [],
+        "items": [
+          {
+            "id": "1601",
+            "iconName": "insert_chart",
+            "text": "ประกันสุขภาพ PH",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiNmVjMDBiNWEtNzQwYy00MThiLWI0MTAtNmUxM2FiYzEyODY1IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          },
+          {
+            "id": "1602",
+            "iconName": "insert_chart",
+            "text": "ประกันรถยนต์ MP",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiOGU5MDExYTktNzJjNC00ZTY5LWE1ZjYtMjJjZGEzOTM0NGU0IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          },
+          {
+            "id": "1603",
+            "iconName": "insert_chart",
+            "text": "ประกันโรคร้ายแรง CI",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiYWUzNzI4YjAtMjQwNy00ZGZhLTk4YTctMzYxMzhhNzU3YTQwIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          }
+        ]
       }
     ]
   },
@@ -528,7 +561,7 @@
   {
     "id": "10000",
     "iconName": "groups",
-    "text": "บริษัทสยามสไมล์ แรลลี่",
+    "text": "บริษัทสยามสไมล์แรลลี่ 1",
     "url": "",
     "permissions": [
       "powerbi_api:group8"
@@ -537,7 +570,7 @@
       {
         "id": "10100",
         "iconName": "insert_chart",
-        "text": "ผลงาน New App ในพื้นที่ PH&MP",
+        "text": "ผลงาน New App แรลลี่ 1",
         "url": "https://app.powerbi.com/view?r=eyJrIjoiNWE1MGY1YzUtOWNkYy00ZGQyLWE3M2QtODYzOGI5MTcxMjIyIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
         "permissions": [],
         "items": []
@@ -545,8 +578,35 @@
       {
         "id": "10200",
         "iconName": "insert_chart",
-        "text": "Grade BG PSG LG",
+        "text": "Grade BG PSG LG แรลลี่ 1",
         "url": "https://app.powerbi.com/view?r=eyJrIjoiNDY3NDVlODktNzRiNy00MWU4LWI4ZjItYWIzMDM0ZjFiN2MzIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+        "permissions": [],
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "11000",
+    "iconName": "groups",
+    "text": "บริษัทสยามสไมล์แรลลี่ 2",
+    "url": "",
+    "permissions": [
+      "powerbi_api:group9"
+    ],
+    "items": [
+      {
+        "id": "11100",
+        "iconName": "insert_chart",
+        "text": "ผลงาน New App แรลลี่ 2",
+        "url": "https://app.powerbi.com/view?r=eyJrIjoiMDk5NmExNTQtMTFhOC00NGMxLWI3OWItZTgxZGY2NzEzMjczIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+        "permissions": [],
+        "items": []
+      },
+      {
+        "id": "11200",
+        "iconName": "insert_chart",
+        "text": "Grade BG PSG LG แรลลี่ 2",
+        "url": "https://app.powerbi.com/view?r=eyJrIjoiNTU3YzkxNzItNjMyYi00M2U2LThiYTYtMjViOWQ4MDU3NzUwIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
         "permissions": [],
         "items": []
       }
