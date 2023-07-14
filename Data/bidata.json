@@ -339,6 +339,14 @@
         "url": "https://app.powerbi.com/reportEmbed?reportId=f2978eb1-17f4-49c5-84a0-338d52bca495&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
+      },
+      {
+        "id": "3300",
+        "iconName": "insert_chart",
+        "text": "Dashboard NPL",
+        "url": "https://app.powerbi.com/view?r=eyJrIjoiNTc3YTBlZDMtNmM4Zi00OTgwLTlhYzktYjU3MDM3NTZjYWRhIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+        "permissions": [],
+        "items": []
       }
     ]
   },
