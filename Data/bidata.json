@@ -347,6 +347,14 @@
         "url": "https://app.powerbi.com/reportEmbed?reportId=5be1a398-d53f-4ed7-a386-ff42ace2b08d&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
+      },
+      {
+        "id": "3400",
+        "iconName": "insert_chart",
+        "text": "Loss Claim PH For Funds",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=a650a225-925a-4511-bdc7-f27b09cde957&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [],
+        "items": []
       }
     ]
   },
