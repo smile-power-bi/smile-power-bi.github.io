@@ -347,14 +347,6 @@
         "url": "https://app.powerbi.com/reportEmbed?reportId=5be1a398-d53f-4ed7-a386-ff42ace2b08d&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
-      },
-      {
-        "id": "3400",
-        "iconName": "insert_chart",
-        "text": "Loss Claim PH For Funds",
-        "url": "https://app.powerbi.com/reportEmbed?reportId=a650a225-925a-4511-bdc7-f27b09cde957&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
-        "permissions": [],
-        "items": []
       }
     ]
   },
@@ -569,7 +561,7 @@
   {
     "id": "10000",
     "iconName": "groups",
-    "text": "บริษัทสยามสไมล์แรลลี่ 1",
+    "text": "บริษัทสยามสไมล์แรลลี่",
     "url": "",
     "permissions": [
       "powerbi_api:group8"
@@ -578,7 +570,7 @@
       {
         "id": "10100",
         "iconName": "insert_chart",
-        "text": "ผลงาน New App แรลลี่ 1",
+        "text": "ผลงาน New App แรลลี่",
         "url": "https://app.powerbi.com/view?r=eyJrIjoiNWE1MGY1YzUtOWNkYy00ZGQyLWE3M2QtODYzOGI5MTcxMjIyIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
         "permissions": [],
         "items": []
@@ -586,8 +578,24 @@
       {
         "id": "10200",
         "iconName": "insert_chart",
-        "text": "Grade BG PSG LG แรลลี่ 1",
+        "text": "Grade BG PSG LG แรลลี่",
         "url": "https://app.powerbi.com/view?r=eyJrIjoiNDY3NDVlODktNzRiNy00MWU4LWI4ZjItYWIzMDM0ZjFiN2MzIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+        "permissions": [],
+        "items": []
+      },
+      {
+        "id": "10300",
+        "iconName": "insert_chart",
+        "text": "Grade POG แรลลี่",
+        "url": "https://app.powerbi.com/view?r=eyJrIjoiZDc2YzlkZjAtZDMwNy00YmYxLTkyODAtMzc4Y2UzMmVjNDFhIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+        "permissions": [],
+        "items": []
+      },
+      {
+        "id": "10400",
+        "iconName": "insert_chart",
+        "text": "Grade UWG แรลลี่",
+        "url": "https://app.powerbi.com/view?r=eyJrIjoiZjdmNWNkMjYtMjIwYS00Mzc0LWE4MWMtMDg5YTA4NjE0ZTAwIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
         "permissions": [],
         "items": []
       }
@@ -596,7 +604,7 @@
   {
     "id": "11000",
     "iconName": "groups",
-    "text": "บริษัทสยามสไมล์แรลลี่ 2",
+    "text": "Test",
     "url": "",
     "permissions": [
       "powerbi_api:group9"
@@ -605,16 +613,8 @@
       {
         "id": "11100",
         "iconName": "insert_chart",
-        "text": "ผลงาน New App แรลลี่ 2",
-        "url": "https://app.powerbi.com/view?r=eyJrIjoiMDk5NmExNTQtMTFhOC00NGMxLWI3OWItZTgxZGY2NzEzMjczIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-        "permissions": [],
-        "items": []
-      },
-      {
-        "id": "11200",
-        "iconName": "insert_chart",
-        "text": "Grade BG PSG LG แรลลี่ 2",
-        "url": "https://app.powerbi.com/view?r=eyJrIjoiNTU3YzkxNzItNjMyYi00M2U2LThiYTYtMjViOWQ4MDU3NzUwIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+        "text": "Tableau Public",
+        "url": "https://public.tableau.com/app/profile/thuwanon.pattananawapong/viz/OverviewDashboard_16934546409780/ExecutiveDashboard",
         "permissions": [],
         "items": []
       }
