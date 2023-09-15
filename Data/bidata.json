@@ -347,6 +347,14 @@
         "url": "https://app.powerbi.com/reportEmbed?reportId=5be1a398-d53f-4ed7-a386-ff42ace2b08d&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
+      },
+      {
+        "id": "3400",
+        "iconName": "insert_chart",
+        "text": "Dashboard Loss Claim PH",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=a650a225-925a-4511-bdc7-f27b09cde957&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [],
+        "items": []
       }
     ]
   },
@@ -614,7 +622,7 @@
         "id": "11100",
         "iconName": "insert_chart",
         "text": "Tableau Public",
-        "url": "https://public.tableau.com/views/OverviewDashboard_16934546409780/ExecutiveDashboard?:language=en-US&:display_count=n&:origin=viz_share_link",
+        "url": "https://public.tableau.com/app/profile/thuwanon.pattananawapong/viz/OverviewDashboard_16934546409780/ExecutiveDashboard",
         "permissions": [],
         "items": []
       }
