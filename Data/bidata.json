@@ -168,6 +168,14 @@
             "url": "https://app.powerbi.com/view?r=eyJrIjoiZDM4NGRlYzUtOTcyNi00N2I2LWEyMzMtZGIxMzcwNzQ1ZTU2IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
             "permissions": [],
             "items": []
+          },
+          {
+            "id": "1302",
+            "iconName": "insert_chart",
+            "text": "SMS ประเมินความพึงพอใจสินไหมออนไลน์",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiNjk1Nzc1ZGUtMjZmZi00YWE1LWEyODEtMzI2ZjU2NTM0ZjYzIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
           }
         ]
       },
