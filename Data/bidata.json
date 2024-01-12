@@ -102,7 +102,9 @@
         "iconName": "bookmarks",
         "text": "PA นักเรียน 66",
         "url": "",
-        "permissions": [],
+        "permissions": {
+          "powerbi_api": "group9"
+        },
         "items": [
           {
             "id": "1201",
@@ -386,8 +388,8 @@
       {
         "id": "4100",
         "iconName": "insert_chart",
-        "text": "Monitor Agent PH&MP",
-        "url": "https://app.powerbi.com/reportEmbed?reportId=37803083-442d-4713-9a54-705638c39211&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "text": "Overview PH&MP",
+        "url": "https://app.powerbi.com/view?r=eyJrIjoiNjM2OTMwZTYtZGZiZi00ZGYyLTlhYTktYTVlMzIzNTRkOTM4IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
         "permissions": [],
         "items": []
       },
