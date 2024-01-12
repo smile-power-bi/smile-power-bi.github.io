@@ -102,9 +102,9 @@
         "iconName": "bookmarks",
         "text": "PA นักเรียน 66",
         "url": "",
-        "permissions": {
-          "powerbi_api": "group9"
-        },
+        "permissions": [
+          "powerbi_api:group9"
+        ],
         "items": [
           {
             "id": "1201",
