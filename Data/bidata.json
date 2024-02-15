@@ -100,16 +100,14 @@
       {
         "id": "1200",
         "iconName": "bookmarks",
-        "text": "PA นักเรียน 66",
+        "text": "PA นักเรียน 67",
         "url": "",
-        "permissions": [
-          "powerbi_api:group9"
-        ],
+        "permissions": [],
         "items": [
           {
             "id": "1201",
             "iconName": "insert_chart",
-            "text": "ติดตามโรงเรียนค้างต่อสัญญาและไม่ต่อสัญญา PA 66",
+            "text": "ติดตามโรงเรียนค้างต่อสัญญาและไม่ต่อสัญญา PA 67",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiMDExYmUwZDctYmMxNi00YmQ5LTg1OTUtYjdjZDc2NDFjMzQ4IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
             "permissions": [],
             "items": []
@@ -117,7 +115,7 @@
           {
             "id": "1202",
             "iconName": "insert_chart",
-            "text": "ผลงานแจ้งตกลง PA 66",
+            "text": "ผลงานแจ้งตกลง PA 67",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiODQ4YjJkNWItYWJiYi00OGE1LTliZDYtY2ZhYzdiYjJmYWQ0IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
             "permissions": [],
             "items": []
@@ -125,7 +123,7 @@
           {
             "id": "1203",
             "iconName": "insert_chart",
-            "text": "ติดตามงานค้างคีย์ในระบบ PA 66",
+            "text": "ติดตามงานค้างคีย์ในระบบ PA 67",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiMmJmZjM1YTAtODc4MC00MTE2LTgwYWEtMDZmNWM1OWMwMDg1IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D&pageName=ReportSection79a0f6149863666c047d",
             "permissions": [],
             "items": []
@@ -133,7 +131,7 @@
           {
             "id": "1204",
             "iconName": "insert_chart",
-            "text": "ผลงานการจัดเก็บเบี้ยตามเป้า PA 66",
+            "text": "ผลงานการจัดเก็บเบี้ยตามเป้า PA 67",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiYTRmODNhZDQtYThhYy00YjM1LTgxNGEtNjAyZWI4YWRiY2M4IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
             "permissions": [],
             "items": []
@@ -141,15 +139,23 @@
           {
             "id": "1205",
             "iconName": "insert_chart",
-            "text": "ติดตามสถานะ App PA 66",
-            "url": "https://app.powerbi.com/view?r=eyJrIjoiZDE4ZGQ2NTItODQ5OS00N2IwLWJjNDQtMjQ0ZWFiZWVmM2Q2IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "text": "ติดตามค้างนำเข้ารายชื่อ PA 67",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiYTdlZWJjNDMtYTdlMy00ZTFmLWFlMzYtNGIzMjdlZmVlZmQ5IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
             "permissions": [],
             "items": []
           },
           {
             "id": "1206",
             "iconName": "insert_chart",
-            "text": "ติดตามภาพรวมการจัดเก็บเบี้ย PA 66",
+            "text": "ติดตามสถานะ App PA 67",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiZDE4ZGQ2NTItODQ5OS00N2IwLWJjNDQtMjQ0ZWFiZWVmM2Q2IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          },
+          {
+            "id": "1207",
+            "iconName": "insert_chart",
+            "text": "ติดตามภาพรวมการจัดเก็บเบี้ย PA 67",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiOTQwMGZkYTEtY2YzNy00N2U1LWFhZDUtNWNkYzUzY2VkZjk0IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
             "permissions": [],
             "items": []
