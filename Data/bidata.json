@@ -264,7 +264,7 @@
       {
         "id": "1600",
         "iconName": "bookmarks",
-        "text": "งานคัดกรองและมอบบัตร",
+        "text": "ผลการคัดกรอง สำหรับ ผอ.บล.",
         "url": "",
         "permissions": [],
         "items": [
@@ -289,6 +289,39 @@
             "iconName": "insert_chart",
             "text": "ประกันโรคร้ายแรง CI",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiYWUzNzI4YjAtMjQwNy00ZGZhLTk4YTctMzYxMzhhNzU3YTQwIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "1700",
+        "iconName": "bookmarks",
+        "text": "ผลการคัดกรอง สำหรับผู้แทน",
+        "url": "",
+        "permissions": [],
+        "items": [
+          {
+            "id": "1701",
+            "iconName": "insert_chart",
+            "text": "ผลการคัดกรอง PH",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiYWJhNzJkYTctMzhhNy00ZTIxLThmZTItMmVjOWI3YmFlYjZlIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          },
+          {
+            "id": "1702",
+            "iconName": "insert_chart",
+            "text": "ผลการคัดกรอง MP",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiNDVhNzljY2EtZDA5ZS00MmY0LWEyZjktYzU0ODYyZTg4MzM4IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          },
+          {
+            "id": "1703",
+            "iconName": "insert_chart",
+            "text": "ผลการคัดกรอง CI",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiODJhYTMwNDItNTI2Yy00MzYwLWEwOWEtMjc5ZDRiNjAwNzMzIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
             "permissions": [],
             "items": []
           }
