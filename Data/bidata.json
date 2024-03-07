@@ -66,23 +66,13 @@
           {
             "id": "1106",
             "iconName": "insert_chart",
-            "text": "LG PH",
-            "url": "https://app.powerbi.com/view?r=eyJrIjoiYWMxODE4MDAtNTcwYy00MjA1LWIwMGMtZDk0ZjA0YTRmNGRlIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "text": "LG PH&MP",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiNThkM2E2M2UtZDg0MS00NDBlLTliZTUtMzA3YjE5ODEwNTgyIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
             "permissions": [],
             "items": []
           },
           {
             "id": "1107",
-            "iconName": "insert_chart",
-            "text": "LG MP",
-            "url": "https://app.powerbi.com/view?r=eyJrIjoiYWQyNjNkY2YtNzMwNS00M2ZkLTkzNTItNzNjYjg5YTRmNWQ3IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-            "permissions": [
-              "powerbi_api:group9"
-            ],
-            "items": []
-          },
-          {
-            "id": "1108",
             "iconName": "insert_chart",
             "text": "BG PH&MP",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiZDM5N2JlNjAtYzMxYS00MTA1LWIxYTItOGFjZjI3NDQyNGEwIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D&pageName=ReportSection",
@@ -90,7 +80,7 @@
             "items": []
           },
           {
-            "id": "1109",
+            "id": "1108",
             "iconName": "insert_chart",
             "text": "UWG PH",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiODgzZDc3MjktNWZkZC00M2ZlLWE0MjItYzRlNmQxNWIzY2I2IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
