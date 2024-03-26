@@ -222,29 +222,13 @@
           {
             "id": "1502",
             "iconName": "insert_chart",
-            "text": "PSG PH&MP Yearly",
-            "url": "https://app.powerbi.com/view?r=eyJrIjoiZTgxZDA3ZTYtYzE4YS00ODk4LWI1MjUtZGI5MDlkMzUwYjJkIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "text": "ติดตาม App รอชำระ PH&MP",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiNDc4MTI1MWQtN2Q2My00OWE3LTk4NWQtOTVhZDBmOTc2MzIxIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
             "permissions": [],
             "items": []
           },
           {
             "id": "1503",
-            "iconName": "insert_chart",
-            "text": "Trend PSG PH&MP",
-            "url": "https://app.powerbi.com/view?r=eyJrIjoiYjdkYTNjNjktMTM0Zi00OGY4LTk4OTItZWViMjE5YWRkNTk3IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-            "permissions": [],
-            "items": []
-          },
-          {
-            "id": "1504",
-            "iconName": "insert_chart",
-            "text": "Trend POG PH&MP",
-            "url": "https://app.powerbi.com/view?r=eyJrIjoiZmFhZDQzOGEtZTY2MC00MzUzLThjYTAtZjUwZWQ1ZGI3MjNlIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-            "permissions": [],
-            "items": []
-          },
-          {
-            "id": "1505",
             "iconName": "insert_chart",
             "text": "Fee For Agent",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiZjVhNzYxNTQtZjczOC00ZmJmLWE1YzktNWU5MWY3YTA5YzY4IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
