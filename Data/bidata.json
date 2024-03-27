@@ -184,6 +184,14 @@
             "url": "https://app.powerbi.com/view?r=eyJrIjoiNjk1Nzc1ZGUtMjZmZi00YWE1LWEyODEtMzI2ZjU2NTM0ZjYzIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
             "permissions": [],
             "items": []
+          },
+          {
+            "id": "1304",
+            "iconName": "insert_chart",
+            "text": "เคลมพื้นที่ (สถานพยาบาล)",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiYTdlMjBiMmQtMWVkNS00ZjBlLTkwZDUtYzZiNGZlODc3NjVjIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
           }
         ]
       },
