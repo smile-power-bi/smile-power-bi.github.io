@@ -703,7 +703,7 @@
       {
         "id": "11100",
         "iconName": "insert_chart",
-        "text": "ผล Login Line OA ฝ่ายบริหารงานบริการพื้นที่",
+        "text": "ผล Login Line OA สำหรับฝ่ายบริหารงานบริการพื้นที่",
         "url": "https://app.powerbi.com/reportEmbed?reportId=cffad793-0146-47d7-b5b4-c1ebe7f9e949&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
