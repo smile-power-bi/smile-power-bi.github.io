@@ -321,7 +321,7 @@
           {
             "id": "1801",
             "iconName": "insert_chart",
-            "text": "ติดตามผล Login New App PH ของผู้ชำระเบี้ย",
+            "text": "ผล Login Line OA",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiMTM1ZmVhZWQtZjgzNC00NWRiLWI1NWEtYjNmMzA3N2MxZTAxIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
             "permissions": [],
             "items": []
@@ -565,7 +565,7 @@
       {
         "id": "7300",
         "iconName": "insert_chart",
-        "text": "ผล Login Line OA",
+        "text": "ผล Login Line OA สำหรับฝ่ายรับประกันสุขภาพ",
         "url": "https://app.powerbi.com/reportEmbed?reportId=4c0d085b-cff7-4fa3-9659-7ce5498b44ae&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
@@ -703,7 +703,7 @@
       {
         "id": "11100",
         "iconName": "insert_chart",
-        "text": "ติดตามผล Login Line OA",
+        "text": "ผล Login Line OA ฝ่ายบริหารงานบริการพื้นที่",
         "url": "https://app.powerbi.com/reportEmbed?reportId=cffad793-0146-47d7-b5b4-c1ebe7f9e949&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
