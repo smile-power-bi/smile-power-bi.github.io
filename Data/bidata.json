@@ -310,6 +310,23 @@
             "items": []
           }
         ]
+      },
+      {
+        "id": "1800",
+        "iconName": "bookmarks",
+        "text": "Login Line OA",
+        "url": "",
+        "permissions": [],
+        "items": [
+          {
+            "id": "1801",
+            "iconName": "insert_chart",
+            "text": "ติดตามผล Login New App PH ของผู้ชำระเบี้ย",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiMTM1ZmVhZWQtZjgzNC00NWRiLWI1NWEtYjNmMzA3N2MxZTAxIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          }
+        ]
       }
     ]
   },
@@ -544,6 +561,14 @@
         "url": "https://app.powerbi.com/reportEmbed?reportId=c2915f12-9cbc-470d-93c1-5d8f749124bc&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
+      },
+      {
+        "id": "7300",
+        "iconName": "insert_chart",
+        "text": "ผล Login Line OA",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=4c0d085b-cff7-4fa3-9659-7ce5498b44ae&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [],
+        "items": []
       }
     ]
   },
@@ -669,7 +694,7 @@
   {
     "id": "11000",
     "iconName": "groups",
-    "text": "Demo",
+    "text": "ฝ่ายบริหารงานบริการพื้นที่",
     "url": "",
     "permissions": [
       "powerbi_api:group9"
@@ -678,48 +703,8 @@
       {
         "id": "11100",
         "iconName": "insert_chart",
-        "text": "Overview Rally",
-        "url": "https://app.powerbi.com/view?r=eyJrIjoiMTA0MzJhZGYtOGYwMi00Y2EzLThjOTYtNDI2YmJhMmJjN2ZlIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-        "permissions": [],
-        "items": []
-      },
-      {
-        "id": "11200",
-        "iconName": "insert_chart",
-        "text": "NG And NPG Rally",
-        "url": "https://app.powerbi.com/view?r=eyJrIjoiNWE1MGY1YzUtOWNkYy00ZGQyLWE3M2QtODYzOGI5MTcxMjIyIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-        "permissions": [],
-        "items": []
-      },
-      {
-        "id": "11300",
-        "iconName": "insert_chart",
-        "text": "BG PSG LG Rally",
-        "url": "https://app.powerbi.com/view?r=eyJrIjoiNDY3NDVlODktNzRiNy00MWU4LWI4ZjItYWIzMDM0ZjFiN2MzIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-        "permissions": [],
-        "items": []
-      },
-      {
-        "id": "11400",
-        "iconName": "insert_chart",
-        "text": "PSG1 Rally",
-        "url": "https://app.powerbi.com/view?r=eyJrIjoiOWY0NjQwMDMtNmViNC00ODNjLThhMWUtMGQ2NWZlZjI0Yjk1IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-        "permissions": [],
-        "items": []
-      },
-      {
-        "id": "11500",
-        "iconName": "insert_chart",
-        "text": "POG Rally",
-        "url": "https://app.powerbi.com/view?r=eyJrIjoiZDc2YzlkZjAtZDMwNy00YmYxLTkyODAtMzc4Y2UzMmVjNDFhIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-        "permissions": [],
-        "items": []
-      },
-      {
-        "id": "11600",
-        "iconName": "insert_chart",
-        "text": "UWG Rally",
-        "url": "https://app.powerbi.com/view?r=eyJrIjoiZjdmNWNkMjYtMjIwYS00Mzc0LWE4MWMtMDg5YTA4NjE0ZTAwIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+        "text": "ติดตามผล Login Line OA",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=cffad793-0146-47d7-b5b4-c1ebe7f9e949&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
       }
