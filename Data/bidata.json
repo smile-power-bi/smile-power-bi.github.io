@@ -26,7 +26,7 @@
           {
             "id": "1101",
             "iconName": "insert_chart",
-            "text": "New App ผลงานในพื้นที่ PH&MP",
+            "text": "New App ผลงานในพื้นที่ PH&MP&PL&HP",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiMzM5NmE3OGYtMmEyOC00MzBiLTg4MTctN2M1ZGJmZjQzY2M5IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
             "permissions": [],
             "items": []
@@ -42,13 +42,21 @@
           {
             "id": "1103",
             "iconName": "insert_chart",
+            "text": "NPG PH&MP",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiNzI1NGEwMTktYzc0Mi00MmQ0LWE4ZjUtZmI4NzQ0Y2YwMDI5IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          },
+          {
+            "id": "1104",
+            "iconName": "insert_chart",
             "text": "TG PH&MP",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiZmEyMWJiOTAtYzg3Yi00ZGRlLWI4ZjEtYjU3NDM2NmFhNjNkIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
             "permissions": [],
             "items": []
           },
           {
-            "id": "1104",
+            "id": "1105",
             "iconName": "insert_chart",
             "text": "PSG PH&MP",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiMTJmNzhhMjYtYTUzNC00NzAzLWI3YWUtNzIyNzRiYzEzZjg5IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D&pageName=ReportSection",
@@ -56,7 +64,7 @@
             "items": []
           },
           {
-            "id": "1105",
+            "id": "1106",
             "iconName": "insert_chart",
             "text": "POG  PH&MP",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiNGVhNDE0YWEtOGM0YS00Zjg2LWJlODctYmRhMmY1ZDk4OGEzIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
@@ -64,7 +72,7 @@
             "items": []
           },
           {
-            "id": "1106",
+            "id": "1107",
             "iconName": "insert_chart",
             "text": "LG PH&MP",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiNThkM2E2M2UtZDg0MS00NDBlLTliZTUtMzA3YjE5ODEwNTgyIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
@@ -72,7 +80,7 @@
             "items": []
           },
           {
-            "id": "1107",
+            "id": "1108",
             "iconName": "insert_chart",
             "text": "BG PH&MP",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiZDM5N2JlNjAtYzMxYS00MTA1LWIxYTItOGFjZjI3NDQyNGEwIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D&pageName=ReportSection",
@@ -80,7 +88,7 @@
             "items": []
           },
           {
-            "id": "1108",
+            "id": "1109",
             "iconName": "insert_chart",
             "text": "UWG PH",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiODgzZDc3MjktNWZkZC00M2ZlLWE0MjItYzRlNmQxNWIzY2I2IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
@@ -638,7 +646,7 @@
     "text": "บริษัทสยามสไมล์แรลลี่",
     "url": "",
     "permissions": [
-      "powerbi_api:group8"
+      "powerbi_api:group0"
     ],
     "items": [
       {
