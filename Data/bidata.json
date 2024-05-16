@@ -335,6 +335,23 @@
             "items": []
           }
         ]
+      },
+      {
+        "id": "1900",
+        "iconName": "bookmarks",
+        "text": "การเปลี่ยนแปลงแผน",
+        "url": "",
+        "permissions": [],
+        "items": [
+          {
+            "id": "1801",
+            "iconName": "insert_chart",
+            "text": "ผลการเปลี่ยนแปลงแผน",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiOGU0Zjk5YWUtNTBlNC00YWQxLWIxOWItYjc1YWFjNzAxMGNkIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          }
+        ]
       }
     ]
   },
@@ -577,6 +594,14 @@
         "url": "https://app.powerbi.com/reportEmbed?reportId=4c0d085b-cff7-4fa3-9659-7ce5498b44ae&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
+      },
+      {
+        "id": "7400",
+        "iconName": "insert_chart",
+        "text": "ผลการเปลี่ยนแปลงแผน สำหรับฝ่ายรับประกันสุขภาพ",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=149411d6-5b63-4df7-b347-5d33b1f849d1&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [],
+        "items": []
       }
     ]
   },
@@ -713,6 +738,14 @@
         "iconName": "insert_chart",
         "text": "ผล Login Line OA สำหรับฝ่ายบริหารงานบริการพื้นที่",
         "url": "https://app.powerbi.com/reportEmbed?reportId=cffad793-0146-47d7-b5b4-c1ebe7f9e949&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [],
+        "items": []
+      },
+      {
+        "id": "11200",
+        "iconName": "insert_chart",
+        "text": "ผลเปลี่ยนแปลงแผน สำหรับฝ่ายบริหารงานบริการพื้นที่",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=30445185-4c62-4a1e-8ca3-feef71600e8d&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
       }
