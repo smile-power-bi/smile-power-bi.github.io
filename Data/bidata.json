@@ -524,6 +524,14 @@
         "url": "https://app.powerbi.com/reportEmbed?reportId=b9fb0092-93f6-4293-a4f8-c23d8ff11ff8&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
+      },
+      {
+        "id": "5700",
+        "iconName": "insert_chart",
+        "text": "ผลการเปลี่ยนแปลงแผน สำหรับฝ่าย R&D",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=0b2af0cf-f713-4a4b-bccf-f21dda456cec&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [],
+        "items": []
       }
     ]
   },
