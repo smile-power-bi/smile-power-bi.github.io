@@ -438,6 +438,14 @@
         "url": "https://app.powerbi.com/reportEmbed?reportId=a650a225-925a-4511-bdc7-f27b09cde957&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
+      },
+      {
+        "id": "3500",
+        "iconName": "insert_chart",
+        "text": "Claim AI Monitor",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=11f8e39a-4b39-4b29-a5e3-a95e5603e524&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [],
+        "items": []
       }
     ]
   },
