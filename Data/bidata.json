@@ -357,8 +357,8 @@
   },
   {
     "id": "2000",
-    "iconName": "bookmarks",
-    "text": "ฝ่ายงานส่งเสริมธุรกิจสาขา",
+    "iconName": "groups",
+    "text": "BI Dashboard Branch Test",
     "url": "",
     "permissions": [
       "powerbi_api:group1"
@@ -366,35 +366,334 @@
     "items": [
       {
         "id": "2100",
-        "iconName": "insert_chart",
-        "text": "Monitor Agent PH",
-        "url": "https://app.powerbi.com/reportEmbed?reportId=d7905b4c-e3dd-4af1-abdb-5e3dcd00d8e5&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "iconName": "bookmarks",
+        "text": "Ranking บุคคล",
+        "url": "",
         "permissions": [],
-        "items": []
+        "items": [
+          {
+            "id": "2101",
+            "iconName": "insert_chart",
+            "text": "New App บุคคล",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiODM5MjgzZDAtMWZiNi00ODA5LWJmM2MtYWE2MWU3NjI4ODQ5IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          },
+          {
+            "id": "2102",
+            "iconName": "insert_chart",
+            "text": "Lapse บุคคล",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiMDJiOGI1OTgtZTIwOS00MGJkLTlkYzctMGQ1MWNjYzkxNWQyIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          }
+        ]
       },
       {
         "id": "2200",
-        "iconName": "insert_chart",
-        "text": "Monitor Agent MP",
-        "url": "https://app.powerbi.com/reportEmbed?reportId=640b5cbd-be87-4b29-8141-5e5a85c389b6&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "iconName": "bookmarks",
+        "text": "Ranking พื้นที่บริการ",
+        "url": "",
         "permissions": [],
-        "items": []
+        "items": [
+          {
+            "id": "2201",
+            "iconName": "insert_chart",
+            "text": "New App พื้นที่บริการ",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiMWUxNzYxMzktYzYyYS00OGFjLTk5NWEtNGZjZTFlNzY5OTA2IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          },
+          {
+            "id": "2202",
+            "iconName": "insert_chart",
+            "text": "Lapse พื้นที่บริการ",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiYWEzMzRhZjktN2RmOS00MDY3LWFhYjktZWJiYWFmZjA4MGY0IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          }
+        ]
       },
       {
         "id": "2300",
-        "iconName": "insert_chart",
-        "text": "Monitor Branch PH",
-        "url": "https://app.powerbi.com/reportEmbed?reportId=4e78f565-e274-427f-bd34-4d3c2faab029&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "iconName": "bookmarks",
+        "text": "Ranking สาขา",
+        "url": "",
         "permissions": [],
-        "items": []
+        "items": [
+          {
+            "id": "2301",
+            "iconName": "insert_chart",
+            "text": "New App สาขา",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiMjQ3YmUxMDAtNGZhNC00YzQwLTg1NDYtNDI5ZjNiZWUyMDRmIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          },
+          {
+            "id": "2302",
+            "iconName": "insert_chart",
+            "text": "Lapse สาขา",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiN2VkNTRiNTQtZGUzYS00NzMwLThkMWUtNjE2NTc0ZmQ2OTg2IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          }
+        ]
       },
       {
         "id": "2400",
-        "iconName": "insert_chart",
-        "text": "Monitor Branch MP",
-        "url": "https://app.powerbi.com/reportEmbed?reportId=eda70d2f-5e19-4486-ba91-71549af8990f&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "iconName": "bookmarks",
+        "text": "PA นักเรียน 67",
+        "url": "",
         "permissions": [],
-        "items": []
+        "items": [
+          {
+            "id": "2401",
+            "iconName": "insert_chart",
+            "text": "ติดตามโรงเรียนค้างต่อสัญญาและไม่ต่อสัญญา PA 67",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiMDExYmUwZDctYmMxNi00YmQ5LTg1OTUtYjdjZDc2NDFjMzQ4IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          },
+          {
+            "id": "2402",
+            "iconName": "insert_chart",
+            "text": "ผลงานแจ้งตกลง PA 67",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiODQ4YjJkNWItYWJiYi00OGE1LTliZDYtY2ZhYzdiYjJmYWQ0IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          },
+          {
+            "id": "2403",
+            "iconName": "insert_chart",
+            "text": "ติดตามงานค้างคีย์ในระบบ PA 67",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiMmJmZjM1YTAtODc4MC00MTE2LTgwYWEtMDZmNWM1OWMwMDg1IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D&pageName=ReportSection79a0f6149863666c047d",
+            "permissions": [],
+            "items": []
+          },
+          {
+            "id": "2404",
+            "iconName": "insert_chart",
+            "text": "ผลงานการจัดเก็บเบี้ยตามเป้า PA 67",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiYTRmODNhZDQtYThhYy00YjM1LTgxNGEtNjAyZWI4YWRiY2M4IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          },
+          {
+            "id": "2405",
+            "iconName": "insert_chart",
+            "text": "ติดตามค้างนำเข้ารายชื่อ PA 67",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiYTdlZWJjNDMtYTdlMy00ZTFmLWFlMzYtNGIzMjdlZmVlZmQ5IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          },
+          {
+            "id": "2406",
+            "iconName": "insert_chart",
+            "text": "ติดตามสถานะ App PA 67",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiZDE4ZGQ2NTItODQ5OS00N2IwLWJjNDQtMjQ0ZWFiZWVmM2Q2IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          },
+          {
+            "id": "2407",
+            "iconName": "insert_chart",
+            "text": "ติดตามภาพรวมการจัดเก็บเบี้ย PA 67",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiOTQwMGZkYTEtY2YzNy00N2U1LWFhZDUtNWNkYzUzY2VkZjk0IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "2500",
+        "iconName": "bookmarks",
+        "text": "ฝ่ายงานสินไหม",
+        "url": "",
+        "permissions": [],
+        "items": [
+          {
+            "id": "2501",
+            "iconName": "insert_chart",
+            "text": "อัพเดทเคลมออนไลน์",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiZDM4NGRlYzUtOTcyNi00N2I2LWEyMzMtZGIxMzcwNzQ1ZTU2IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          },
+          {
+            "id": "2502",
+            "iconName": "insert_chart",
+            "text": "ติดตามเคลมคงค้าง",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiNWE0N2YwZTUtZDVhNS00Yzc1LTlmMmMtYWI5ODIyNmU1NWU3IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          },
+          {
+            "id": "2503",
+            "iconName": "insert_chart",
+            "text": "SMS ประเมินความพึงพอใจสินไหมออนไลน์",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiNjk1Nzc1ZGUtMjZmZi00YWE1LWEyODEtMzI2ZjU2NTM0ZjYzIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          },
+          {
+            "id": "2504",
+            "iconName": "insert_chart",
+            "text": "เคลมพื้นที่ สถานพยาบาล",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiYTdlMjBiMmQtMWVkNS00ZjBlLTkwZDUtYzZiNGZlODc3NjVjIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "2600",
+        "iconName": "bookmarks",
+        "text": "ฝ่ายงานประกันสุขภาพ",
+        "url": "",
+        "permissions": [],
+        "items": [
+          {
+            "id": "2601",
+            "iconName": "insert_chart",
+            "text": "ติดตามสถานะ New App",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiMmY2MTZhMGMtYzI4ZC00NGM4LTk2ZTgtMzAzYTg1ZDBkODViIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D&pageName=ReportSection",
+            "permissions": [],
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "2700",
+        "iconName": "bookmarks",
+        "text": "ฝ่ายงานรับเบี้ยประกัน",
+        "url": "",
+        "permissions": [],
+        "items": [
+          {
+            "id": "2701",
+            "iconName": "insert_chart",
+            "text": "ติดตามเปรียบเทียบ Grade PSG PH&MP",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiZjdiZTk1YzktOWJiNC00MzJhLWJiMzctMzQyNzZlMDA3MDVkIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          },
+          {
+            "id": "2702",
+            "iconName": "insert_chart",
+            "text": "ติดตาม App รอรับชำระ PH&MP",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiNDc4MTI1MWQtN2Q2My00OWE3LTk4NWQtOTVhZDBmOTc2MzIxIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          },
+          {
+            "id": "2703",
+            "iconName": "insert_chart",
+            "text": "Fee For Agent",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiZjVhNzYxNTQtZjczOC00ZmJmLWE1YzktNWU5MWY3YTA5YzY4IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "2800",
+        "iconName": "bookmarks",
+        "text": "ผลการคัดกรอง สำหรับ ผอ.บล.",
+        "url": "",
+        "permissions": [],
+        "items": [
+          {
+            "id": "2801",
+            "iconName": "insert_chart",
+            "text": "ประกันสุขภาพ PH",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiNmVjMDBiNWEtNzQwYy00MThiLWI0MTAtNmUxM2FiYzEyODY1IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          },
+          {
+            "id": "2802",
+            "iconName": "insert_chart",
+            "text": "ประกันรถยนต์ MP",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiOGU5MDExYTktNzJjNC00ZTY5LWE1ZjYtMjJjZGEzOTM0NGU0IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          },
+          {
+            "id": "2803",
+            "iconName": "insert_chart",
+            "text": "ประกันโรคร้ายแรง CI",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiYWUzNzI4YjAtMjQwNy00ZGZhLTk4YTctMzYxMzhhNzU3YTQwIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "2900",
+        "iconName": "bookmarks",
+        "text": "ผลการคัดกรอง สำหรับผู้แทน",
+        "url": "",
+        "permissions": [],
+        "items": [
+          {
+            "id": "2901",
+            "iconName": "insert_chart",
+            "text": "ผลการคัดกรอง PH",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiYWJhNzJkYTctMzhhNy00ZTIxLThmZTItMmVjOWI3YmFlYjZlIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          },
+          {
+            "id": "2902",
+            "iconName": "insert_chart",
+            "text": "ผลการคัดกรอง MP",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiNDVhNzljY2EtZDA5ZS00MmY0LWEyZjktYzU0ODYyZTg4MzM4IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          },
+          {
+            "id": "2903",
+            "iconName": "insert_chart",
+            "text": "ผลการคัดกรอง CI",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiODJhYTMwNDItNTI2Yy00MzYwLWEwOWEtMjc5ZDRiNjAwNzMzIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "21000",
+        "iconName": "bookmarks",
+        "text": "Login Line OA",
+        "url": "",
+        "permissions": [],
+        "items": [
+          {
+            "id": "21001",
+            "iconName": "insert_chart",
+            "text": "ผล Login Line OA",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiMTM1ZmVhZWQtZjgzNC00NWRiLWI1NWEtYjNmMzA3N2MxZTAxIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "21100",
+        "iconName": "bookmarks",
+        "text": "การเปลี่ยนแปลงแผน",
+        "url": "",
+        "permissions": [],
+        "items": [
+          {
+            "id": "21101",
+            "iconName": "insert_chart",
+            "text": "ผลการเปลี่ยนแปลงแผน",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiOGU0Zjk5YWUtNTBlNC00YWQxLWIxOWItYjc1YWFjNzAxMGNkIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          }
+        ]
       }
     ]
   },
