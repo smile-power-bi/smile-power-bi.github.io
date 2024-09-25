@@ -845,7 +845,7 @@
   {
     "id": "6000",
     "iconName": "bookmarks",
-    "text": "ฝ่ายงานบริหารความเสี่ยง",
+    "text": "ฝ่ายงาน ป.2",
     "url": "",
     "permissions": [
       "powerbi_api:group5"
@@ -854,24 +854,8 @@
       {
         "id": "6100",
         "iconName": "insert_chart",
-        "text": "New app and Lapse",
-        "url": "https://app.powerbi.com/reportEmbed?reportId=8c754d80-1bd4-463c-a82e-158a0161d090&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
-        "permissions": [],
-        "items": []
-      },
-      {
-        "id": "6200",
-        "iconName": "insert_chart",
-        "text": "Finanace Siamsmile",
-        "url": "https://app.powerbi.com/reportEmbed?reportId=648889d1-ba23-4ff6-913b-9591a9b6b16e&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
-        "permissions": [],
-        "items": []
-      },
-      {
-        "id": "6300",
-        "iconName": "insert_chart",
-        "text": "Fund-Claim On Excel File",
-        "url": "https://app.powerbi.com/reportEmbed?reportId=ba9a1f2b-cdfd-4910-8396-03821f31206f&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "text": "Dashboard ขึ้นจัดเก็บรายปี",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=be445f6e-ba50-4e10-9db0-dbce32c47469&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
       }
