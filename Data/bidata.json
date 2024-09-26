@@ -864,7 +864,7 @@
   {
     "id": "7000",
     "iconName": "bookmarks",
-    "text": "ฝ่ายงานรับประกันสุภาพ",
+    "text": "ฝ่ายงานรับประกันสุขภาพ",
     "url": "",
     "permissions": [
       "powerbi_api:group6"
