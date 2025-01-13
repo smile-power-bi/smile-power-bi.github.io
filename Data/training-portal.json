@@ -3,56 +3,42 @@
     "numberOrder": "",
     "system": "รายละเอียด login",
     "userGroups": "FO",
-    "remark": "รายละเอียดสำหรับการ login เข้าสอบ",
-    "url": "https://docs.google.com/spreadsheets/d/1pFP7efFgjwtDIlTjEQkUuilkKwrcsGahNYDa4waR1Xs/edit?usp=sharing"
+    "remark": "รายละเอียดสำหรับการ login",
+    "url": "https://docs.google.com/spreadsheets/d/1dngP68VeiDk8D1rZ2w-K4hooqOfMusNmH7cpz04C5lw/edit?usp=sharing"
   },
   {
-    "numberOrder": "SSS",
-    "system": "ระบบประกันสุขภาพ",
+    "numberOrder": "SSSPA - Training",
+    "system": "ลิ้งค์ระบบ PA นักเรียน - Training",
     "userGroups": "FO",
-    "remark": "Username และ Password ที่เตรียมไว้",
-    "url": "https://trnsss.siamsmile.co.th"
+    "remark": "ลิ้งค์ที่ใช้สำหรับทดลองการใช้งานระบบ",
+    "url": "https://uatssspa.siamsmile.co.th/Modules/System/frmMenu.aspx?pgid=MDEzNDYtMTAwMi0wNy8xOC8yNTY3IDAxOjIxOjQyLjIyNyBQTQ=="
   },
   {
-    "numberOrder": "PA",
-    "system": "ระบบประกันอุบัติเหตุนักเรียน",
+    "numberOrder": "Premiun - order",
+    "system": "ลิ้งค์ระบบ Premium order",
     "userGroups": "FO",
-    "remark": "Username และ Password ที่เตรียมไว้",
-    "url": "https://trnssspa.siamsmile.co.th/"
+    "remark": "ลิ้งค์ที่ใช้สำหรับทดลองการใช้งานระบบ Premium Order",
+    "url": "https://prmorder.uatsiamsmile.com/"
   },
   {
-    "numberOrder": "PA",
+    "numberOrder": "เอกสาร PA",
+    "system": "เอกสาร PA นักเรียน",
+    "userGroups": "FO",
+    "remark": "Download เอกสารที่ใช้แนบในระบบ PA นักเรียน",
+    "url": "https://drive.google.com/drive/folders/1XlhNsTTW-pTnzDkt8HJNfjvdyCgQTO8m?usp=sharing"
+  },
+  {
+    "numberOrder": "PA Import รายชื่อ",
     "system": "รายชื่อสำหรับนำเข้า PA นักเรียน",
     "userGroups": "FO",
-    "remark": "Username และ Password ที่เตรียมไว้",
-    "url": "https://docs.google.com/spreadsheets/d/1aqCcI2sJp41KxMh8bh6JOKtvA8Kag09T/edit?usp=sharing&ouid=101112800460365985196&rtpof=true&sd=truehttps://docs.google.com/spreadsheets/d/1aqCcI2sJp41KxMh8bh6JOKtvA8Kag09T/edit?usp=sharing&ouid=101112800460365985196&rtpof=true&sd=true"
+    "remark": "Download ตัวอย่างไฟล์รายชื่อ PA นักเรียน",
+    "url": "https://drive.google.com/drive/folders/1NhSwlMX1Gez6ZbH1MX5i6YobRdHyFQUj?usp=sharing"
   },
   {
-    "numberOrder": "Motor",
-    "system": "ระบบประกันรถยนต์",
+    "numberOrder": "PA Plan",
+    "system": "แผนประกัน",
     "userGroups": "FO",
-    "remark": "Username และ Password ที่เตรียมไว้",
-    "url": "https://b2b.uat.siamsmile.co.th/"
-  },
-  {
-    "numberOrder": "Claim PH",
-    "system": "ระบบเคลม ประกันสุขภาพ",
-    "userGroups": "FO",
-    "remark": "Username และ Password ที่เตรียมไว้",
-    "url": "https://trnsss.siamsmile.co.th"
-  },
-  {
-    "numberOrder": "Claim Online",
-    "system": "ระบบสินไหมออนไลน์",
-    "userGroups": "FO",
-    "remark": "Username และ Password ที่เตรียมไว้",
-    "url": "https://trncol.siamsmile.co.th"
-  },
-  {
-    "numberOrder": "เงินสดย่อย",
-    "system": "ระบบ เงินสดย่อย",
-    "userGroups": "FO",
-    "remark": "Username และ Password ที่เตรียมไว้",
-    "url": "https://trnpettycash.siamsmile.co.th"
+    "remark": "ตัวอย่างความคุ้มครองสำหรับโค๊ดเบี้ย",
+    "url": "https://drive.google.com/file/d/1pwYE0a-NyFTpkmbpqv-cx1dpe_rkZMbp/view?usp=sharing"
   }
 ]
