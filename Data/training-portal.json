@@ -2,43 +2,50 @@
   {
     "numberOrder": "",
     "system": "รายละเอียด login",
-    "userGroups": "FO",
+    "userGroups": "MO",
     "remark": "รายละเอียดสำหรับการ login",
-    "url": "https://docs.google.com/spreadsheets/d/1dngP68VeiDk8D1rZ2w-K4hooqOfMusNmH7cpz04C5lw/edit?usp=sharing"
+    "url": "https://docs.google.com/spreadsheets/d/1mZXDI28ToQm2WzQ7rBZJKrAdBqjzPSghDh-e16BEiZg/edit?usp=sharing"
   },
   {
-    "numberOrder": "SSSPA - Training",
-    "system": "ลิ้งค์ระบบ PA นักเรียน - Training",
-    "userGroups": "FO",
-    "remark": "ลิ้งค์ที่ใช้สำหรับทดลองการใช้งานระบบ",
-    "url": "https://uatssspa.siamsmile.co.th/Modules/System/frmMenu.aspx?pgid=MDEzNDYtMTAwMi0wNy8xOC8yNTY3IDAxOjIxOjQyLjIyNyBQTQ=="
+    "numberOrder": "Motor - Training",
+    "system": "ลิงค์แบบทดสอบ",
+    "userGroups": "MO",
+    "remark": "ลิงค์ที่ใช้สำหรับทดลองการใช้งานระบบ",
+    "url": "https://docs.google.com/spreadsheets/d/1gh4ol873eWJGO-XtD10kiDMZYQBYg4hihfH4nwMMvRs/edit?usp=sharing"
   },
   {
-    "numberOrder": "Premiun - order",
-    "system": "ลิ้งค์ระบบ Premium order",
-    "userGroups": "FO",
-    "remark": "ลิ้งค์ที่ใช้สำหรับทดลองการใช้งานระบบ Premium Order",
-    "url": "https://prmorder.uatsiamsmile.com/"
+    "numberOrder": "เอกสาร Motor",
+    "system": "เอกสาร Motor",
+    "userGroups": "MO",
+    "remark": "รูปประกอบใช้แนบในข้อสอบ",
+    "url": "https://drive.google.com/drive/folders/1-gX0PM2cP9XTTmcKq8ucDh5xlLl7jgbE?usp=drive_link"
   },
   {
-    "numberOrder": "เอกสาร PA",
-    "system": "เอกสาร PA นักเรียน",
-    "userGroups": "FO",
-    "remark": "Download เอกสารที่ใช้แนบในระบบ PA นักเรียน",
-    "url": "https://drive.google.com/drive/folders/1XlhNsTTW-pTnzDkt8HJNfjvdyCgQTO8m?usp=sharing"
+    "numberOrder": "Premium Order",
+    "system": "ลิงค์ระบบ Premium Order",
+    "userGroups": "MO",
+    "remark": "ลิงค์ที่ใช้สำหรับทดลองการใช้งานระบบ Premium Order",
+    "url": "https://prmorder.uatsiamsmile.com/premiumnoticepages"
   },
   {
-    "numberOrder": "PA Import รายชื่อ",
-    "system": "รายชื่อสำหรับนำเข้า PA นักเรียน",
-    "userGroups": "FO",
-    "remark": "Download ตัวอย่างไฟล์รายชื่อ PA นักเรียน",
-    "url": "https://drive.google.com/drive/folders/1NhSwlMX1Gez6ZbH1MX5i6YobRdHyFQUj?usp=sharing"
+    "numberOrder": "Smile Motor",
+    "system": "ลิงค์ระบบ Smile Motor",
+    "userGroups": "MO",
+    "remark": "ลิงค์ที่ใช้สำหรับทดลองการใช้งานระบบ Smile Motor",
+    "url": "https://sale.uatsiamsmile.com/"
   },
   {
-    "numberOrder": "PA Plan",
-    "system": "แผนประกัน",
-    "userGroups": "FO",
-    "remark": "ตัวอย่างความคุ้มครองสำหรับโค๊ดเบี้ย",
-    "url": "https://drive.google.com/file/d/1pwYE0a-NyFTpkmbpqv-cx1dpe_rkZMbp/view?usp=sharing"
+    "numberOrder": "Smile Queue",
+    "system": "ลิงค์ระบบ Smile Queue",
+    "userGroups": "MO",
+    "remark": "ลิงค์ที่ใช้สำหรับทดลองการใช้งานระบบ Smile Queue",
+    "url": "https://queue.uatsiamsmile.com/monitor-assignee"
+  },
+  {
+    "numberOrder": "Motor Policy",
+    "system": "ลิงค์ระบบ Motor Policy",
+    "userGroups": "MO",
+    "remark": "ลิงค์ที่ใช้สำหรับทดลองการใช้งานระบบ Motor Policy",
+    "url": "https://policy.uatsiamsmile.com/policy"
   }
 ]
