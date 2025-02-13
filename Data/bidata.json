@@ -322,78 +322,12 @@
       {
         "id": "1800",
         "iconName": "bookmarks",
-        "text": "ผลการคัดกรอง สำหรับ ผอ.บล.",
-        "url": "",
-        "permissions": [],
-        "items": [
-          {
-            "id": "1801",
-            "iconName": "insert_chart",
-            "text": "ประกันสุขภาพ PH",
-            "url": "https://app.powerbi.com/view?r=eyJrIjoiNmVjMDBiNWEtNzQwYy00MThiLWI0MTAtNmUxM2FiYzEyODY1IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-            "permissions": [],
-            "items": []
-          },
-          {
-            "id": "1802",
-            "iconName": "insert_chart",
-            "text": "ประกันรถยนต์ MP",
-            "url": "https://app.powerbi.com/view?r=eyJrIjoiOGU5MDExYTktNzJjNC00ZTY5LWE1ZjYtMjJjZGEzOTM0NGU0IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-            "permissions": [],
-            "items": []
-          },
-          {
-            "id": "1803",
-            "iconName": "insert_chart",
-            "text": "ประกันโรคร้ายแรง CI",
-            "url": "https://app.powerbi.com/view?r=eyJrIjoiYWUzNzI4YjAtMjQwNy00ZGZhLTk4YTctMzYxMzhhNzU3YTQwIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-            "permissions": [],
-            "items": []
-          }
-        ]
-      },
-      {
-        "id": "1900",
-        "iconName": "bookmarks",
-        "text": "ผลการคัดกรอง สำหรับผู้แทน",
-        "url": "",
-        "permissions": [],
-        "items": [
-          {
-            "id": "1901",
-            "iconName": "insert_chart",
-            "text": "ผลการคัดกรอง PH",
-            "url": "https://app.powerbi.com/view?r=eyJrIjoiYWJhNzJkYTctMzhhNy00ZTIxLThmZTItMmVjOWI3YmFlYjZlIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-            "permissions": [],
-            "items": []
-          },
-          {
-            "id": "1902",
-            "iconName": "insert_chart",
-            "text": "ผลการคัดกรอง MP",
-            "url": "https://app.powerbi.com/view?r=eyJrIjoiNDVhNzljY2EtZDA5ZS00MmY0LWEyZjktYzU0ODYyZTg4MzM4IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-            "permissions": [],
-            "items": []
-          },
-          {
-            "id": "1903",
-            "iconName": "insert_chart",
-            "text": "ผลการคัดกรอง CI",
-            "url": "https://app.powerbi.com/view?r=eyJrIjoiODJhYTMwNDItNTI2Yy00MzYwLWEwOWEtMjc5ZDRiNjAwNzMzIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-            "permissions": [],
-            "items": []
-          }
-        ]
-      },
-      {
-        "id": "11000",
-        "iconName": "bookmarks",
         "text": "Login Line OA",
         "url": "",
         "permissions": [],
         "items": [
           {
-            "id": "11001",
+            "id": "1801",
             "iconName": "insert_chart",
             "text": "ผล Login Line OA",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiMTM1ZmVhZWQtZjgzNC00NWRiLWI1NWEtYjNmMzA3N2MxZTAxIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
@@ -403,14 +337,14 @@
         ]
       },
       {
-        "id": "11100",
+        "id": "1900",
         "iconName": "bookmarks",
         "text": "การเปลี่ยนแปลงแผน",
         "url": "",
         "permissions": [],
         "items": [
           {
-            "id": "11101",
+            "id": "1901",
             "iconName": "insert_chart",
             "text": "ผลการเปลี่ยนแปลงแผน",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiOGU0Zjk5YWUtNTBlNC00YWQxLWIxOWItYjc1YWFjNzAxMGNkIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
