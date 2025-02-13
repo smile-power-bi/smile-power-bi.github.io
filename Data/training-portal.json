@@ -7,18 +7,18 @@
     "url": "https://docs.google.com/spreadsheets/d/1mZXDI28ToQm2WzQ7rBZJKrAdBqjzPSghDh-e16BEiZg/edit?usp=sharing"
   },
   {
-    "numberOrder": "Motor - Training",
-    "system": "ลิงค์แบบทดสอบ",
-    "userGroups": "MO",
-    "remark": "ลิงค์ที่ใช้สำหรับทดลองการใช้งานระบบ",
-    "url": "https://docs.google.com/spreadsheets/d/1gh4ol873eWJGO-XtD10kiDMZYQBYg4hihfH4nwMMvRs/edit?usp=sharing"
-  },
-  {
     "numberOrder": "เอกสาร Motor",
     "system": "เอกสาร Motor",
     "userGroups": "MO",
     "remark": "รูปประกอบใช้แนบในข้อสอบ",
     "url": "https://drive.google.com/drive/folders/1-gX0PM2cP9XTTmcKq8ucDh5xlLl7jgbE?usp=drive_link"
+  },
+  {
+    "numberOrder": "Motor - Training",
+    "system": "ลิงค์แบบทดสอบ",
+    "userGroups": "MO",
+    "remark": "ลิงค์ที่ใช้สำหรับทดลองการใช้งานระบบ",
+    "url": "https://docs.google.com/spreadsheets/d/1gh4ol873eWJGO-XtD10kiDMZYQBYg4hihfH4nwMMvRs/edit?usp=sharing"
   },
   {
     "numberOrder": "Premium Order",
