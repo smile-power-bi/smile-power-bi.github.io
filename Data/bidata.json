@@ -790,24 +790,5 @@
         "items": []
       }
     ]
-  },
-  {
-    "id": "12000",
-    "iconName": "bookmarks",
-    "text": "ฝ่ายงานรับประกันรถยนต์",
-    "url": "",
-    "permissions": [
-      "powerbi_api:group10"
-    ],
-    "items": [
-      {
-        "id": "12100",
-        "iconName": "insert_chart",
-        "text": "Siamsmile Motor",
-        "url": "https://app.powerbi.com/view?r=eyJrIjoiMjI0ZTM3ZWMtMGU5Mi00MzVjLTgyYWEtM2RjNmMyMmQ0ZDA5IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-        "permissions": [],
-        "items": []
-      }
-    ]
   }
 ]
