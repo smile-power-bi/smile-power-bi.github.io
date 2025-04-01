@@ -790,5 +790,72 @@
         "items": []
       }
     ]
+  },
+  {
+    "id": "12000",
+    "iconName": "groups",
+    "text": "Academy Team",
+    "url": "",
+    "permissions": [
+      "powerbi_api:group0"
+    ],
+    "items": [
+      {
+        "id": "12100",
+        "iconName": "insert_chart",
+        "text": "ผลงาน New App Academy",
+        "url": "https://app.powerbi.com/view?r=eyJrIjoiZjFlOTc5ZGUtMmE0Yy00ODNmLThkNmYtYTY5M2Y5OTc0OWEwIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+        "permissions": [],
+        "items": []
+      },
+      {
+        "id": "12200",
+        "iconName": "insert_chart",
+        "text": "ผลการยกเลิก Academy",
+        "url": "https://app.powerbi.com/view?r=eyJrIjoiMzlkNWQxMDQtN2I0MS00ZWM3LTgwZjAtZDlkMGI0YzBhNzBhIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+        "permissions": [],
+        "items": []
+      },
+      {
+        "id": "12300",
+        "iconName": "insert_chart",
+        "text": "Balance Growth Academy",
+        "url": "https://app.powerbi.com/view?r=eyJrIjoiMDZmNDY1YjAtY2I5Mi00YjkxLWJjNWMtNTFlMjJmNWM5NjRiIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+        "permissions": [],
+        "items": []
+      },
+      {
+        "id": "12400",
+        "iconName": "insert_chart",
+        "text": "การหักเบี้ยในระบบ Academy",
+        "url": "https://app.powerbi.com/view?r=eyJrIjoiNDQ5YWMxYzUtOTRjZi00ODljLTlhNGUtY2Q4ZmM0MDU1YTQ0IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+        "permissions": [],
+        "items": []
+      },
+      {
+        "id": "12500",
+        "iconName": "insert_chart",
+        "text": "ผลการหักเบี้ยในระบบ ของ New App DCR ก่อน Academy",
+        "url": "https://app.powerbi.com/view?r=eyJrIjoiMmNhZjQyOTctMDdiMS00ZjI4LWJjODUtYTQwOGU2YTVlOWI2IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+        "permissions": [],
+        "items": []
+      },
+      {
+        "id": "12600",
+        "iconName": "insert_chart",
+        "text": "ผลงานการขึ้นจัดเก็บ Academy",
+        "url": "https://app.powerbi.com/view?r=eyJrIjoiNzYwMGZlNTgtOTkxYS00ZWYwLTkyNDgtZWNlMzZiNDU1ZWY2IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+        "permissions": [],
+        "items": []
+      },
+      {
+        "id": "12700",
+        "iconName": "insert_chart",
+        "text": "ผลการคัดกรอง Academy",
+        "url": "https://app.powerbi.com/view?r=eyJrIjoiMDliZmUxYjYtNzJmOS00YzdkLTlmMGItMmU5ZmRlOTNmYjRkIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+        "permissions": [],
+        "items": []
+      }
+    ]
   }
 ]
