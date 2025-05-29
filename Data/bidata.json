@@ -369,6 +369,23 @@
             "items": []
           }
         ]
+      },
+      {
+        "id": "11100",
+        "iconName": "bookmarks",
+        "text": "Ranking ผลงานรถ",
+        "url": "",
+        "permissions": [],
+        "items": [
+          {
+            "id": "11101",
+            "iconName": "insert_chart",
+            "text": "ผลงานรถ",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiMDM1OGRjZGQtZTg0Mi00NmVkLThlMTUtZTk1NWUyZjFkODhlIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
+          }
+        ]
       }
     ]
   },
