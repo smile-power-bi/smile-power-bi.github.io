@@ -908,6 +908,14 @@
         "url": "https://app.powerbi.com/reportEmbed?reportId=b0c837f0-6b8f-48e5-9dba-c39a9b9aa16d&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
+      },
+      {
+        "id": "13200",
+        "iconName": "insert_chart",
+        "text": "Overview Premium",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=10c6bb13-43f3-4ba2-b26a-83485df15f6c&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [],
+        "items": []
       }
     ]
   }
