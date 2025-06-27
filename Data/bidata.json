@@ -833,7 +833,7 @@
   {
     "id": "11000",
     "iconName": "groups",
-    "text": "ฝ่ายบริหารงานบริการพื้นที่",
+    "text": "Staff Academy",
     "url": "",
     "permissions": [
       "powerbi_api:group9"
@@ -842,16 +842,8 @@
       {
         "id": "11100",
         "iconName": "insert_chart",
-        "text": "ผล Login Line OA สำหรับฝ่ายบริหารงานบริการพื้นที่",
-        "url": "https://app.powerbi.com/reportEmbed?reportId=cffad793-0146-47d7-b5b4-c1ebe7f9e949&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
-        "permissions": [],
-        "items": []
-      },
-      {
-        "id": "11200",
-        "iconName": "insert_chart",
-        "text": "ผลเปลี่ยนแปลงแผน สำหรับฝ่ายบริหารงานบริการพื้นที่",
-        "url": "https://app.powerbi.com/reportEmbed?reportId=30445185-4c62-4a1e-8ca3-feef71600e8d&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "text": "Academy Turnover Rate",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=cd92064c-e537-4324-9f6b-f4a90f266467&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
       }
