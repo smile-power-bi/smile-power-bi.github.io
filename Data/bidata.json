@@ -492,21 +492,13 @@
       {
         "id": "3200",
         "iconName": "insert_chart",
-        "text": "Fax Claim",
-        "url": "https://app.powerbi.com/reportEmbed?reportId=f2978eb1-17f4-49c5-84a0-338d52bca495&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
-        "permissions": [],
-        "items": []
-      },
-      {
-        "id": "3300",
-        "iconName": "insert_chart",
         "text": "Dashboard NPL",
         "url": "https://app.powerbi.com/reportEmbed?reportId=5be1a398-d53f-4ed7-a386-ff42ace2b08d&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
       },
       {
-        "id": "3400",
+        "id": "3300",
         "iconName": "insert_chart",
         "text": "Dashboard Loss Claim PH",
         "url": "https://app.powerbi.com/reportEmbed?reportId=a650a225-925a-4511-bdc7-f27b09cde957&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
@@ -514,7 +506,7 @@
         "items": []
       },
       {
-        "id": "3500",
+        "id": "3400",
         "iconName": "insert_chart",
         "text": "Claim AI Monitor",
         "url": "https://app.powerbi.com/reportEmbed?reportId=11f8e39a-4b39-4b29-a5e3-a95e5603e524&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
@@ -522,7 +514,7 @@
         "items": []
       },
       {
-        "id": "3600",
+        "id": "3500",
         "iconName": "insert_chart",
         "text": "Monitor Claim Hospital",
         "url": "https://app.powerbi.com/reportEmbed?reportId=49efbf99-c131-4cb5-825e-40da6088beb0&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
@@ -530,7 +522,7 @@
         "items": []
       },
       {
-        "id": "3700",
+        "id": "3600",
         "iconName": "insert_chart",
         "text": "Monitor Claim Branch",
         "url": "https://app.powerbi.com/reportEmbed?reportId=cb581943-ce31-4f89-8aeb-bc775ec610f9&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
@@ -538,7 +530,7 @@
         "items": []
       },
       {
-        "id": "3800",
+        "id": "3700",
         "iconName": "insert_chart",
         "text": "Claim Overview Hospital",
         "url": "https://app.powerbi.com/reportEmbed?reportId=a24889c0-469b-43a4-ab29-ee0b28cc56fa&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
@@ -546,10 +538,26 @@
         "items": []
       },
       {
-        "id": "3900",
+        "id": "3800",
         "iconName": "insert_chart",
         "text": "Claim Overview Insurer",
         "url": "https://app.powerbi.com/reportEmbed?reportId=6cb7ee8a-9a6c-4355-a69b-0fb3d5c5fde6&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [],
+        "items": []
+      },
+      {
+        "id": "3900",
+        "iconName": "insert_chart",
+        "text": "Monitor Claim Digital Channel",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=32e9c7d2-a99d-42f1-8098-46a3757c979e&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [],
+        "items": []
+      },
+      {
+        "id": "31000",
+        "iconName": "insert_chart",
+        "text": "KPI Claim Digital Channel",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=4385e5bd-8bca-49be-b2e3-ec99df43eb94&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
       }
