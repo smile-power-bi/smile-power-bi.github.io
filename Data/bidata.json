@@ -217,6 +217,14 @@
             "url": "https://app.powerbi.com/view?r=eyJrIjoiYzFlOTk4ZTItNWMyZi00ZWQ2LWJiYmItNmM2MjM4MWQyOTAwIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
             "permissions": [],
             "items": []
+          },
+          {
+            "id": "1406",
+            "iconName": "insert_chart",
+            "text": "Loss Claim PA 68",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiNWNlYmM1ZjMtMDY4MC00OGEzLWIzZGYtMmRjZTBlOGFjMjc4IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
           }
         ]
       },
