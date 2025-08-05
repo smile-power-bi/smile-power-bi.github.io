@@ -399,6 +399,14 @@
             "url": "https://app.powerbi.com/view?r=eyJrIjoiMzM5NmE3OGYtMmEyOC00MzBiLTg4MTctN2M1ZGJmZjQzY2M5IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
             "permissions": [],
             "items": []
+          },
+          {
+            "id": "11004",
+            "iconName": "insert_chart",
+            "text": "ติดตามการเพิ่มข้อมูลผู้ขับขี่",
+            "url": "https://app.powerbi.com/view?r=eyJrIjoiMWRmY2MxZWEtMjdmYi00YzhjLTk2NjAtYzQyYjY5YzcyMjIzIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
+            "permissions": [],
+            "items": []
           }
         ]
       }
