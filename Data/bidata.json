@@ -414,7 +414,7 @@
   },
   {
     "id": "2000",
-    "iconName": "groups",
+    "iconName": "bookmarks",
     "text": "ฝ่ายงานกองหลัง",
     "url": "",
     "permissions": [
@@ -812,7 +812,7 @@
   },
   {
     "id": "11000",
-    "iconName": "groups",
+    "iconName": "bookmarks",
     "text": "Staff Academy",
     "url": "",
     "permissions": [
