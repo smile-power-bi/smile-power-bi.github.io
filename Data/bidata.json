@@ -625,6 +625,25 @@
     ]
   },
   {
+    "id": "6000",
+    "iconName": "bookmarks",
+    "text": "ฝ่ายงานประกันรถยนต์",
+    "url": "",
+    "permissions": [
+      "powerbi_api:group6"
+    ],
+    "items": [
+      {
+        "id": "6100",
+        "iconName": "insert_chart",
+        "text": "ติดตามการเพิ่มข้อมูลผู้ขับขี่ MP",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=fc2d36d4-f364-4411-99c1-479da6070b71&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [],
+        "items": []
+      }
+    ]
+  },
+  {
     "id": "7000",
     "iconName": "bookmarks",
     "text": "ฝ่ายงานรับประกันสุขภาพ",
@@ -673,7 +692,7 @@
     "text": "ฝ่ายงานรับเบี้ยประกัน",
     "url": "",
     "permissions": [
-      "powerbi_api:group7"
+      "powerbi_api:group6"
     ],
     "items": [
       {
