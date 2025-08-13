@@ -499,7 +499,7 @@
       {
         "id": "3700",
         "iconName": "insert_chart",
-        "text": "Claim Overview Hospital",
+        "text": "Claim Overview PH Hospital",
         "url": "https://app.powerbi.com/reportEmbed?reportId=a24889c0-469b-43a4-ab29-ee0b28cc56fa&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
@@ -507,7 +507,7 @@
       {
         "id": "3800",
         "iconName": "insert_chart",
-        "text": "Claim Overview Insurer",
+        "text": "Claim Overview PH Insurer",
         "url": "https://app.powerbi.com/reportEmbed?reportId=6cb7ee8a-9a6c-4355-a69b-0fb3d5c5fde6&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
@@ -515,13 +515,21 @@
       {
         "id": "3900",
         "iconName": "insert_chart",
+        "text": "Claim Overview PAs",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=a9b5a548-9f5f-46dd-a8c1-d546d2bf589f&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [],
+        "items": []
+      },
+      {
+        "id": "31000",
+        "iconName": "insert_chart",
         "text": "Monitor Claim Digital Channel",
         "url": "https://app.powerbi.com/reportEmbed?reportId=32e9c7d2-a99d-42f1-8098-46a3757c979e&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
       },
       {
-        "id": "31000",
+        "id": "31100",
         "iconName": "insert_chart",
         "text": "KPI Claim Digital Channel",
         "url": "https://app.powerbi.com/reportEmbed?reportId=4385e5bd-8bca-49be-b2e3-ec99df43eb94&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
