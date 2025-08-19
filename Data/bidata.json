@@ -957,5 +957,40 @@
         "items": []
       }
     ]
+  },
+  {
+    "id": "14000",
+    "iconName": "groups",
+    "text": "ฝ่ายงาน Marketing Support",
+    "url": "",
+    "permissions": [
+      "powerbi_api:group7"
+    ],
+    "items": [
+      {
+        "id": "14100",
+        "iconName": "insert_chart",
+        "text": "Claim PAs",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=17981aaf-b212-4c1a-a4c2-b9f7816b480a&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [],
+        "items": []
+      },
+      {
+        "id": "14200",
+        "iconName": "insert_chart",
+        "text": "Claim PH มุมมองผู้เอาประกัน",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=0dc53c97-4587-4385-8dfb-e1daf948d882&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [],
+        "items": []
+      },
+      {
+        "id": "14300",
+        "iconName": "insert_chart",
+        "text": "Claim PH มุมมองโรงพยาบาล",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=3b69f99a-0025-4295-b3f5-2d6d79dee70c&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
+        "permissions": [],
+        "items": []
+      }
+    ]
   }
 ]
