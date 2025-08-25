@@ -779,65 +779,6 @@
     ]
   },
   {
-    "id": "10000",
-    "iconName": "groups",
-    "text": "บริษัทสยามสไมล์แรลลี่",
-    "url": "",
-    "permissions": [
-      "powerbi_api:group0"
-    ],
-    "items": [
-      {
-        "id": "10100",
-        "iconName": "insert_chart",
-        "text": "Overview Rally",
-        "url": "https://app.powerbi.com/view?r=eyJrIjoiNzcwY2NiZWUtODVjMi00NTQ2LWE5MjAtNGQyOWQ2ZjQ3ZDY2IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-        "permissions": [],
-        "items": []
-      },
-      {
-        "id": "10200",
-        "iconName": "insert_chart",
-        "text": "NG And NPG Rally",
-        "url": "https://app.powerbi.com/view?r=eyJrIjoiNWE1MGY1YzUtOWNkYy00ZGQyLWE3M2QtODYzOGI5MTcxMjIyIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-        "permissions": [],
-        "items": []
-      },
-      {
-        "id": "10300",
-        "iconName": "insert_chart",
-        "text": "BG PSG LG Rally",
-        "url": "https://app.powerbi.com/view?r=eyJrIjoiNDY3NDVlODktNzRiNy00MWU4LWI4ZjItYWIzMDM0ZjFiN2MzIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-        "permissions": [],
-        "items": []
-      },
-      {
-        "id": "10400",
-        "iconName": "insert_chart",
-        "text": "PSG1 Rally",
-        "url": "https://app.powerbi.com/view?r=eyJrIjoiOWY0NjQwMDMtNmViNC00ODNjLThhMWUtMGQ2NWZlZjI0Yjk1IiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-        "permissions": [],
-        "items": []
-      },
-      {
-        "id": "10500",
-        "iconName": "insert_chart",
-        "text": "POG Rally",
-        "url": "https://app.powerbi.com/view?r=eyJrIjoiZDc2YzlkZjAtZDMwNy00YmYxLTkyODAtMzc4Y2UzMmVjNDFhIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-        "permissions": [],
-        "items": []
-      },
-      {
-        "id": "10600",
-        "iconName": "insert_chart",
-        "text": "UWG Rally",
-        "url": "https://app.powerbi.com/view?r=eyJrIjoiZjdmNWNkMjYtMjIwYS00Mzc0LWE4MWMtMDg5YTA4NjE0ZTAwIiwidCI6IjJiNWFhNThlLTA0M2MtNGNhZi05OWFkLWVhYWRhMmVmN2RlZiIsImMiOjEwfQ%3D%3D",
-        "permissions": [],
-        "items": []
-      }
-    ]
-  },
-  {
     "id": "11000",
     "iconName": "bookmarks",
     "text": "Staff Academy",
