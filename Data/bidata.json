@@ -798,7 +798,7 @@
       {
         "id": "10100",
         "iconName": "insert_chart",
-        "text": "Claims Audit",
+        "text": "Dashbaord Claims Audit",
         "url": "https://app.powerbi.com/reportEmbed?reportId=ac4de28d-86d5-4a9d-8d9b-d72424be98c7&autoAuth=true&ctid=2b5aa58e-043c-4caf-99ad-eaada2ef7def",
         "permissions": [],
         "items": []
